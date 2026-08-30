@@ -2,7 +2,7 @@
 
 An index of games listed in the Polish **Secret Service** magazine, reconstructed from scanned source tables.
 
-The project currently contains **868 indexed entries** from processed scans. Each entry records the game title, magazine issue number, and page number. Duplicate entries are preserved when they occur in the source material. fileciteturn0file3L1-L29
+This is an experimental project for testing ChatGPT-driven extraction and processing of structured data from scanned magazine pages.
 
 ## Project structure
 
@@ -11,19 +11,19 @@ The project currently contains **868 indexed entries** from processed scans. Eac
 - `postep-skanowania.md` — processing status of every scan.
 - `url.yaml` — mapping between `Secret Service` issue numbers and their Internet Archive identifiers.
 - `build.ps1` — generates `indeks_with_urls.md` from `indeks.md`.
-- `indeks_with_urls.md` — index with links to the corresponding pages on Internet Archive.
+- `indeks_with_urls.md` — generated index with links to the corresponding pages on Internet Archive.
 - `prompt.md` — processing and data-entry rules.
 
 ## Index format
 
 `indeks.md` contains exactly three columns:
 
-| Game Title | SS Issue | Page |
-| --- | ---: | ---: |
-| 11A SIDE SOCCER | 15 | 9 |
-| 11th HOUR | 33 | 40 |
+| Game Title      | SS Issue | Page |
+| --------------- | -------: | ---: |
+| 11A SIDE SOCCER |       15 |    9 |
+| 11th HOUR       |       33 |   40 |
 
-The original spelling and capitalization are preserved. Multi-line titles are combined into a single title. Uncertain text is marked with `?????` rather than guessed. |filecite|turn0file0|L39-L73| |filecite|turn0file0|L91-L105|
+The original spelling and capitalization are preserved. Multi-line titles are combined into a single title. Uncertain text is marked with `?????` rather than guessed.
 
 ## Processing scans
 
@@ -36,7 +36,7 @@ Scans are processed sequentially:
 5. Update its status in `postep-skanowania.md`.
 6. Do not reprocess files already marked `gotowe` unless explicitly requested.
 
-The index is updated before the corresponding scan is marked as completed. fileciteturn0file0L19-L31
+The index is updated before the corresponding scan is marked as completed.
 
 ## Source links
 
@@ -54,11 +54,11 @@ This produces:
 indeks_with_urls.md
 ```
 
-The generated links point to the corresponding magazine page on Internet Archive.
+The generated links point to the corresponding magazine pages on Internet Archive.
 
 ## Data quality
 
-The project intentionally does not normalize or correct source data from external knowledge.
+The project intentionally does not normalize or correct source data based on external knowledge.
 
 When a scan is unclear:
 
@@ -67,19 +67,16 @@ When a scan is unclear:
 - duplicates from the source are retained;
 - unreadable scans are marked `wymaga sprawdzenia`.
 
-This keeps the index traceable to the scanned source material. fileciteturn0file0L91-L123
+This keeps the index traceable to the scanned source material.
 
 ## Current progress
 
-Processed scans are tracked in `postep-skanowania.md`. The current state contains completed scans as well as remaining scans awaiting processing. |filecite|turn0file2|L3-L38|
+Processed scans are tracked in `postep-skanowania.md`. The file records the status and number of entries extracted from each scan.
 
 ## License
 
-The code and scripts in this repository are licensed under the
-GNU General Public License v3.0.
+The code and scripts in this repository are licensed under the GNU General Public License v3.0.
 
-The scanned magazine material is not covered by this license and
-remains subject to the rights of its respective copyright holders.
+The scanned magazine material is not covered by this license and remains subject to the rights of its respective copyright holders.
 
-The game index is a derived reference dataset created from the
-scanned source material.
+The game index is a derived reference dataset created from the scanned source material.
