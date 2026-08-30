@@ -23,7 +23,7 @@ The project currently contains **868 indexed entries** from processed scans. Eac
 | 11A SIDE SOCCER | 15 | 9 |
 | 11th HOUR | 33 | 40 |
 
-The original spelling and capitalization are preserved. Multi-line titles are combined into a single title. Uncertain text is marked with `?????` rather than guessed. fileciteturn0file0L39-L73 fileciteturn0file0L91-L105
+The original spelling and capitalization are preserved. Multi-line titles are combined into a single title. Uncertain text is marked with `?????` rather than guessed. |filecite|turn0file0|L39-L73| |filecite|turn0file0|L91-L105|
 
 ## Processing scans
 
@@ -71,4 +71,15 @@ This keeps the index traceable to the scanned source material. filecitetur
 
 ## Current progress
 
-Processed scans are tracked in `postep-skanowania.md`. The current state contains completed scans as well as remaining scans awaiting processing. fileciteturn0file2L3-L38
+Processed scans are tracked in `postep-skanowania.md`. The current state contains completed scans as well as remaining scans awaiting processing. |filecite|turn0file2|L3-L38|
+
+## License
+
+The code and scripts in this repository are licensed under the
+GNU General Public License v3.0.
+
+The scanned magazine material is not covered by this license and
+remains subject to the rights of its respective copyright holders.
+
+The game index is a derived reference dataset created from the
+scanned source material.
