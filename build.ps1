@@ -21,7 +21,10 @@ $yamlLines = Get-Content -LiteralPath $YamlFile -Encoding UTF8
 
 $baseUrl = $null
 $issues = @{}
+$offsets = @{}
 $inIssues = $false
+$inOffsets = $false
+$currentOffsetIssue = $null
 
 foreach ($line in $yamlLines) {
 
@@ -31,10 +34,63 @@ foreach ($line in $yamlLines) {
         continue
     }
 
+    # offsets:
+    if ($line -match '^\s*offsets:\s*$') {
+        $inOffsets = $true
+        $inIssues = $false
+        continue
+    }
+
     # issues:
     if ($line -match '^\s*issues:\s*$') {
         $inIssues = $true
+        $inOffsets = $false
         continue
+    }
+
+    if ($inOffsets) {
+        # Numerowany wpis offsetów, np. "  1:"
+        if ($line -match '^\s+(\d+):\s*$') {
+            $currentOffsetIssue = [int]$matches[1]
+            $offsets[$currentOffsetIssue] = @{
+                InitialOffset = 0
+                PageOffsets   = New-Object System.Collections.Generic.List[object]
+            }
+            continue
+        }
+
+        if ($null -ne $currentOffsetIssue -and
+            $line -match '^\s+initial_offset:\s*(-?\d+)\s*$') {
+            $offsets[$currentOffsetIssue].InitialOffset = [int]$matches[1]
+            continue
+        }
+
+        # Aktywna reguła page_offsets.
+        # Przykład:
+        #   - from_page: 19
+        #     offset: 16
+        #
+        # UWAGA: ten warunek musi być przed warunkiem dla "offset".
+        # Zakomentowane przykłady zaczynające się od "#" są ignorowane.
+        if ($null -ne $currentOffsetIssue -and
+            $line -match '^\s*-\s*from_page:\s*(\d+)\s*$') {
+            $fromPage = [int]$matches[1]
+            $offsets[$currentOffsetIssue].PageOffsets.Add(@{
+                FromPage = $fromPage
+                Offset   = 0
+            })
+            continue
+        }
+
+        if ($null -ne $currentOffsetIssue -and
+            $line -match '^\s+offset:\s*(-?\d+)\s*$') {
+            $rules = $offsets[$currentOffsetIssue].PageOffsets
+            if ($rules.Count -eq 0) {
+                throw "offset bez poprzedzającego from_page dla numeru SS $currentOffsetIssue."
+            }
+            $rules[$rules.Count - 1].Offset = [int]$matches[1]
+            continue
+        }
     }
 
     if ($inIssues -and
@@ -62,6 +118,32 @@ if ($issues.Count -eq 0) {
 # Funkcja tworząca URL
 # ------------------------------------------------------------
 
+function Get-PageOffset {
+    param(
+        [int]$IssueNumber,
+        [int]$Page
+    )
+
+    # Domyślnie brak przesunięcia. Dzięki temu brak wpisu w offsets
+    # nie zmienia dotychczasowego zachowania skryptu.
+    if (-not $offsets.ContainsKey($IssueNumber)) {
+        return 0
+    }
+
+    $config = $offsets[$IssueNumber]
+    $totalOffset = [int]$config.InitialOffset
+
+    # Każdy aktywny offset obowiązuje od podanej strony drukowanej
+    # i jest dodawany do offsetu początkowego.
+    foreach ($rule in $config.PageOffsets) {
+        if ($Page -ge [int]$rule.FromPage) {
+            $totalOffset += [int]$rule.Offset
+        }
+    }
+
+    return $totalOffset
+}
+
 function New-ArchiveUrl {
     param(
         [int]$IssueNumber,
@@ -74,10 +156,11 @@ function New-ArchiveUrl {
     }
 
     $archiveId = $issues[$IssueNumber]
+    $pdfPage = $Page + (Get-PageOffset -IssueNumber $IssueNumber -Page $Page)
 
     $url = $baseUrl
     $url = $url.Replace('{archive_id}', $archiveId)
-    $url = $url.Replace('{page}', [string]$Page)
+    $url = $url.Replace('{page}', [string]$pdfPage)
 
     return $url
 }
