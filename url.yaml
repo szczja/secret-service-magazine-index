@@ -1,5 +1,281 @@
 base_url: "https://archive.org/details/{archive_id}/page/n{page}/mode/2up"
 
+# Korekta numeracji stron dla każdego numeru magazynu.
+# initial_offset: przesunięcie początkowe między numerem drukowanym
+#                 a numerem strony w PDF.
+#
+# page_offsets: dodatkowe przesunięcia od wskazanej strony drukowanej.
+#               Offsety są kumulowane.
+#
+# Przykład:
+#   initial_offset: 1
+#   page_offsets:
+#     - from_page: 21
+#       offset: 4
+# oznacza: strony 1-20 -> +1, a strona 21 i kolejne -> +1+4.
+
+offsets:
+  1:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  2:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  3:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  4:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  5:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  6:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  7:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  8:
+    initial_offset: 0
+    page_offsets:
+      - from_page: 19
+        offset: 16
+  9:
+    initial_offset: 0
+    page_offsets:
+      - from_page: 19
+        offset: 16
+  10:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  11:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  12:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  13:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  14:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  15:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  16:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  17:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  18:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  19:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  20:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  21:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  22:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  23:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  24:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  25:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  26:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  27:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  28:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  29:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  30:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  31:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  32:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  33:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  34:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  35:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  36:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  37:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  38:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  39:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  40:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  41:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  42:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  43:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  44:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  45:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  46:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  47:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  48:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  49:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  50:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  51:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+  52:
+    initial_offset: 0
+    # page_offsets:
+    #   - from_page: 21
+    #     offset: 4
+
 issues:
   1: secretservicemagazine-1993-01
   2: secretservicemagazine-1993-02
