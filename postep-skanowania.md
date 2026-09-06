@@ -31,8 +31,8 @@
 | Zrzut ekranu 2026-08-29 201224.png | gotowe | 68 | — |
 | Zrzut ekranu 2026-08-29 201230.png | gotowe | 65 | — |
 | Zrzut ekranu 2026-08-29 201244.png | gotowe | 64 | — |
-| Zrzut ekranu 2026-08-29 201255.png | do zrobienia | — | — |
-| Zrzut ekranu 2026-08-29 201303.png | do zrobienia | — | — |
-| Zrzut ekranu 2026-08-29 201309.png | do zrobienia | — | — |
-| Zrzut ekranu 2026-08-29 201320.png | do zrobienia | — | — |
-| Zrzut ekranu 2026-08-29 201518.png | do zrobienia | — | — |
+| Zrzut ekranu 2026-08-29 201255.png | gotowe | 64 | — |
+| Zrzut ekranu 2026-08-29 201303.png | gotowe | 64 | — |
+| Zrzut ekranu 2026-08-29 201309.png | gotowe | 65 | — |
+| Zrzut ekranu 2026-08-29 201320.png | gotowe | 65 | — |
+| Zrzut ekranu 2026-08-29 201518.png | gotowe | 8 | — |
