@@ -18,15 +18,15 @@
 | Zrzut ekranu 2026-08-29 201007.png | gotowe | 69 | — |
 | Zrzut ekranu 2026-08-29 201022.png | gotowe | 60 | — |
 | Zrzut ekranu 2026-08-29 201033.png | gotowe | 56 | — |
-| Zrzut ekranu 2026-08-29 201044.png | gotowe | 66 | — |
-| Zrzut ekranu 2026-08-29 201051.png | gotowe | 68 | — |
-| Zrzut ekranu 2026-08-29 201059.png | gotowe | 68 | — |
-| Zrzut ekranu 2026-08-29 201105.png | do zrobienia | — | — |
-| Zrzut ekranu 2026-08-29 201122.png | do zrobienia | — | — |
-| Zrzut ekranu 2026-08-29 201129.png | do zrobienia | — | — |
-| Zrzut ekranu 2026-08-29 201146.png | do zrobienia | — | — |
-| Zrzut ekranu 2026-08-29 201154.png | do zrobienia | — | — |
-| Zrzut ekranu 2026-08-29 201201.png | do zrobienia | — | — |
+| Zrzut ekranu 2026-08-29 201044.png | do zrobienia | — | — |
+| Zrzut ekranu 2026-08-29 201051.png | do zrobienia | — | — |
+| Zrzut ekranu 2026-08-29 201059.png | do zrobienia | — | — |
+| Zrzut ekranu 2026-08-29 201105.png | gotowe | 66 | — |
+| Zrzut ekranu 2026-08-29 201122.png | gotowe | 65 | — |
+| Zrzut ekranu 2026-08-29 201129.png | gotowe | 63 | — |
+| Zrzut ekranu 2026-08-29 201146.png | gotowe | 61 | — |
+| Zrzut ekranu 2026-08-29 201154.png | gotowe | 65 | — |
+| Zrzut ekranu 2026-08-29 201201.png | gotowe | 60 | — |
 | Zrzut ekranu 2026-08-29 201211.png | do zrobienia | — | — |
 | Zrzut ekranu 2026-08-29 201224.png | do zrobienia | — | — |
 | Zrzut ekranu 2026-08-29 201230.png | do zrobienia | — | — |
