@@ -15,9 +15,9 @@
 | Zrzut ekranu 2026-08-29 200935.png | gotowe | 62 | — |
 | Zrzut ekranu 2026-08-29 200948.png | gotowe | 61 | 1 wpis z `?????` |
 | Zrzut ekranu 2026-08-29 201000.png | gotowe | 66 | — |
-| Zrzut ekranu 2026-08-29 201007.png | do zrobienia | — | — |
-| Zrzut ekranu 2026-08-29 201022.png | do zrobienia | — | — |
-| Zrzut ekranu 2026-08-29 201033.png | do zrobienia | — | — |
+| Zrzut ekranu 2026-08-29 201007.png | gotowe | 69 | — |
+| Zrzut ekranu 2026-08-29 201022.png | gotowe | 60 | — |
+| Zrzut ekranu 2026-08-29 201033.png | gotowe | 56 | — |
 | Zrzut ekranu 2026-08-29 201044.png | do zrobienia | — | — |
 | Zrzut ekranu 2026-08-29 201051.png | do zrobienia | — | — |
 | Zrzut ekranu 2026-08-29 201059.png | do zrobienia | — | — |
