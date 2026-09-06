@@ -86,7 +86,7 @@ offsets:
     #   - from_page: 21
     #     offset: 4
   15:
-    initial_offset: 0
+    initial_offset: -1
     # page_offsets:
     #   - from_page: 21
     #     offset: 4
