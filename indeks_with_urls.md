@@ -31,19 +31,19 @@
 | [A-10 CUBA](https://archive.org/details/secretservicemagazine-1997-05/page/n40/mode/2up) | 46 | 40 |
 | [A-10 CUBA](https://archive.org/details/secretservicemagazine-1997-06/page/n40/mode/2up) | 47 | 40 |
 | [A-10 TANK KILLER](https://archive.org/details/secretservicemagazine-1993-07/page/n24/mode/2up) | 7 | 24 |
-| [A-TRAIN](https://archive.org/details/secretservicemagazine-1993-06/page/n34/mode/2up) | 6 | 34 |
+| [A-TRAIN](https://archive.org/details/secretservicemagazine-1993-06/page/n33/mode/2up) | 6 | 34 |
 | [A BRIDGE TOO FAR - CLOSE COMBAT 2](https://archive.org/details/secretservicemagazine-1997-12/page/n72/mode/2up) | 52 | 72 |
 | [A PUZZLE OF FLESH - PHANTASMAGORIA 2](https://archive.org/details/secretservicemagazine-1997-02/page/n50/mode/2up) | 43 | 50 |
 | [A4 NETWORKS](https://archive.org/details/secretservicemagazine-1996-01/page/n58/mode/2up) | 31 | 58 |
 | [A.D. 2044](https://archive.org/details/secretservicemagazine-1996-11/page/n46/mode/2up) | 40 | 46 |
 | [A.D. COP](https://archive.org/details/secretservicemagazine-1997-10/page/n29/mode/2up) | 50 | 29 |
 | [ABES ODYSSEE - ODDWORLD](https://archive.org/details/secretservicemagazine-1997-12/page/n48/mode/2up) | 52 | 48 |
-| [ABSENCE MAKES THE HEART - GO YONDER! - KING'S QUEST 5](https://archive.org/details/secretservicemagazine-1994-01/page/n36/mode/2up) | 9 | 20 |
+| [ABSENCE MAKES THE HEART - GO YONDER! - KING'S QUEST 5](https://archive.org/details/secretservicemagazine-1994-01/page/n35/mode/2up) | 9 | 20 |
 | [ABSOLUTE ZERO](https://archive.org/details/secretservicemagazine-1997-05/page/n30/mode/2up) | 46 | 30 |
 | [ABUSE](https://archive.org/details/secretservicemagazine-1995-11/page/n36/mode/2up) | 29 | 36 |
 | [ACE VENTURA PL](https://archive.org/details/secretservicemagazine-1997-07/page/n37/mode/2up) | 48 | 37 |
 | [ACES OF THE DEEP](https://archive.org/details/secretservicemagazine-1994-12/page/n32/mode/2up) | 19 | 32 |
-| [ACES OF THE PACIFIC](https://archive.org/details/secretservicemagazine-1993-04/page/n16/mode/2up) | 4 | 16 |
+| [ACES OF THE PACIFIC](https://archive.org/details/secretservicemagazine-1993-04/page/n15/mode/2up) | 4 | 16 |
 | [ACES OVER EUROPE](https://archive.org/details/secretservicemagazine-1994-02/page/n10/mode/2up) | 10 | 10 |
 | [ACHTUNG SPITFIRE](https://archive.org/details/secretservicemagazine-1997-11/page/n44/mode/2up) | 51 | 44 |
 | [ACROSS THE RHINE](https://archive.org/details/secretservicemagazine-1995-11/page/n52/mode/2up) | 29 | 52 |
@@ -53,7 +53,7 @@
 | [ADMIRAL SEA BATTLES](https://archive.org/details/secretservicemagazine-1997-03/page/n57/mode/2up) | 44 | 57 |
 | [ADVANCED CIVILIZATION](https://archive.org/details/secretservicemagazine-1996-03/page/n54/mode/2up) | 33 | 54 |
 | [ADVANCED TACTICAL FIGHTERS - ATF](https://archive.org/details/secretservicemagazine-1996-07/page/n38/mode/2up) | 37 | 38 |
-| [ADVENTURES IN TIME - FUTURE WARS](https://archive.org/details/secretservicemagazine-1993-04/page/n26/mode/2up) | 4 | 26 |
+| [ADVENTURES IN TIME - FUTURE WARS](https://archive.org/details/secretservicemagazine-1993-04/page/n25/mode/2up) | 4 | 26 |
 | [ADVENTURES OF ROBIN HOOD, THE](https://archive.org/details/secretservicemagazine-1995-05/page/n22/mode/2up) | 24 | 22 |
 | [ADVENTURES OF THE 5th MUSKETEER, THE - TOUCHE](https://archive.org/details/secretservicemagazine-1996-03/page/n44/mode/2up) | 33 | 44 |
 | [AEGIS - GUARDIAN OF THE FLEET](https://archive.org/details/secretservicemagazine-1995-02/page/n44/mode/2up) | 21 | 44 |
@@ -74,7 +74,7 @@
 | [ALBION cz.1](https://archive.org/details/secretservicemagazine-1996-09/page/n43/mode/2up) | 38 | 43 |
 | [ALBION cz.2](https://archive.org/details/secretservicemagazine-1996-10/page/n56/mode/2up) | 39 | 56 |
 | [ALBION cz.3](https://archive.org/details/secretservicemagazine-1996-11/page/n54/mode/2up) | 40 | 54 |
-| [ALCATRAZ](https://archive.org/details/secretservicemagazine-1993-06/page/n16/mode/2up) | 6 | 16 |
+| [ALCATRAZ](https://archive.org/details/secretservicemagazine-1993-06/page/n15/mode/2up) | 6 | 16 |
 | [ALEX DAMPIER WORLD HOCKEY 95](https://archive.org/details/secretservicemagazine-1995-06/page/n59/mode/2up) | 25 | 59 |
 | [ALFA BOOT](https://archive.org/details/secretservicemagazine-1994-10/page/n10/mode/2up) | 17 | 10 |
 | [ALFABET ŚMIERCI](https://archive.org/details/secretservicemagazine-1996-07/page/n22/mode/2up) | 37 | 22 |
@@ -123,7 +123,7 @@
 | [AREA 51](https://archive.org/details/secretservicemagazine-1997-04/page/n32/mode/2up) | 45 | 32 |
 | [ARENA](https://archive.org/details/secretservicemagazine-1994-07/page/n29/mode/2up) | 15 | 30 |
 | [ARKTYCZNE POLOWANIE](https://archive.org/details/secretservicemagazine-1995-03/page/n9/mode/2up) | 22 | 9 |
-| [ARMADA](https://archive.org/details/secretservicemagazine-1994-01/page/n41/mode/2up) | 9 | 25 |
+| [ARMADA](https://archive.org/details/secretservicemagazine-1994-01/page/n40/mode/2up) | 9 | 25 |
 | [ARMADA - WING COMMANDER](https://archive.org/details/secretservicemagazine-1995-01/page/n66/mode/2up) | 20 | 66 |
 | [ARMADA - WING COMMANDER](https://archive.org/details/secretservicemagazine-1995-03/page/n46/mode/2up) | 22 | 46 |
 | [ARMAGEDDON](https://archive.org/details/secretservicemagazine-1996-05/page/n25/mode/2up) | 35 | 25 |
@@ -156,7 +156,7 @@
 | [BANGBOO](https://archive.org/details/secretservicemagazine-1996-04/page/n22/mode/2up) | 34 | 22 |
 | [BANGKOK KNIGHTS](https://archive.org/details/secretservicemagazine-1995-01/page/n10/mode/2up) | 20 | 10 |
 | [BANZAI BUG](https://archive.org/details/secretservicemagazine-1997-10/page/n41/mode/2up) | 50 | 41 |
-| [BARAHIR](https://archive.org/details/secretservicemagazine-1993-06/page/n8/mode/2up) | 6 | 8 |
+| [BARAHIR](https://archive.org/details/secretservicemagazine-1993-06/page/n7/mode/2up) | 6 | 8 |
 | [BARBARIAN](https://archive.org/details/secretservicemagazine-1994-02/page/n5/mode/2up) | 10 | 5 |
 | [BARYON](https://archive.org/details/secretservicemagazine-1995-11/page/n36/mode/2up) | 29 | 36 |
 | [BASTION](https://archive.org/details/secretservicemagazine-1996-06/page/n57/mode/2up) | 36 | 57 |
@@ -175,7 +175,7 @@
 | [BATTLE ISLE 2 - TITANS LEGACY](https://archive.org/details/secretservicemagazine-1994-12/page/n60/mode/2up) | 19 | 60 |
 | [BATTLE ISLE 3 - SHADOW OF THE EMPEROR](https://archive.org/details/secretservicemagazine-1996-04/page/n56/mode/2up) | 34 | 56 |
 | [BATTLE OF ANTARES - MASTER OF ORION 2](https://archive.org/details/secretservicemagazine-1997-07/page/n56/mode/2up) | 48 | 56 |
-| [BATTLE SHIPS](https://archive.org/details/secretservicemagazine-1994-01/page/n41/mode/2up) | 9 | 25 |
+| [BATTLE SHIPS](https://archive.org/details/secretservicemagazine-1994-01/page/n40/mode/2up) | 9 | 25 |
 | [BATTLE SHIPS](https://archive.org/details/secretservicemagazine-1994-12/page/n9/mode/2up) | 19 | 9 |
 | [BATTLE SPORT](https://archive.org/details/secretservicemagazine-1997-03/page/n24/mode/2up) | 44 | 24 |
 | [BATTLECRUISER 3000 AD](https://archive.org/details/secretservicemagazine-1996-11/page/n40/mode/2up) | 40 | 40 |
@@ -195,7 +195,7 @@
 | [BEAST WITHIN, THE - GABRIEL KNIGHT 2 cz.1](https://archive.org/details/secretservicemagazine-1996-04/page/n37/mode/2up) | 34 | 37 |
 | [BEAST WITHIN, THE - GABRIEL KNIGHT 2 cz.2](https://archive.org/details/secretservicemagazine-1996-05/page/n48/mode/2up) | 35 | 48 |
 | [BEASTS AND BUMPKINS](https://archive.org/details/secretservicemagazine-1997-09/page/n54/mode/2up) | 49 | 54 |
-| [BEAUTY AND THE BEAST](https://archive.org/details/secretservicemagazine-1993-06/page/n36/mode/2up) | 6 | 36 |
+| [BEAUTY AND THE BEAST](https://archive.org/details/secretservicemagazine-1993-06/page/n35/mode/2up) | 6 | 36 |
 | [BEAUTY AND THE BEAST](https://archive.org/details/secretservicemagazine-1995-02/page/n33/mode/2up) | 21 | 33 |
 | [BEAVIS & BUTT-HEAD - VIRTUAL STUPIDITY](https://archive.org/details/secretservicemagazine-1996-03/page/n48/mode/2up) | 33 | 48 |
 | [BEDLAM](https://archive.org/details/secretservicemagazine-1996-12/page/n30/mode/2up) | 41 | 30 |
@@ -224,9 +224,9 @@
 | [BIG RED RACING](https://archive.org/details/secretservicemagazine-1995-12/page/n32/mode/2up) | 30 | 32 |
 | [BING](https://archive.org/details/secretservicemagazine-1997-01/page/n79/mode/2up) | 42 | 79 |
 | [BIOFORGE](https://archive.org/details/secretservicemagazine-1995-05/page/n66/mode/2up) | 24 | 66 |
-| [BIRDS OF PREY](https://archive.org/details/secretservicemagazine-1993-04/page/n14/mode/2up) | 4 | 14 |
+| [BIRDS OF PREY](https://archive.org/details/secretservicemagazine-1993-04/page/n13/mode/2up) | 4 | 14 |
 | [BIRTHRIGHT - THE GORGON'S ALLIANCE](https://archive.org/details/secretservicemagazine-1997-06/page/n52/mode/2up) | 47 | 52 |
-| [BITWA MORSKA](https://archive.org/details/secretservicemagazine-1994-01/page/n41/mode/2up) | 9 | 25 |
+| [BITWA MORSKA](https://archive.org/details/secretservicemagazine-1994-01/page/n40/mode/2up) | 9 | 25 |
 | [BLACK CAULDRON, THE](https://archive.org/details/secretservicemagazine-1993-03/page/n27/mode/2up) | 3 | 27 |
 | [BLACK CRYPT](https://archive.org/details/secretservicemagazine-1994-04/page/n34/mode/2up) | 12 | 34 |
 | [BLACK DAHLIA (WP)](https://archive.org/details/secretservicemagazine-1997-12/page/n13/mode/2up) | 52 | 13 |
@@ -253,7 +253,7 @@
 | [BLUE ICE](https://archive.org/details/secretservicemagazine-1997-04/page/n42/mode/2up) | 45 | 42 |
 | [BLUES BROTHERS, THE](https://archive.org/details/secretservicemagazine-1995-04/page/n36/mode/2up) | 23 | 36 |
 | [BMX NINJA](https://archive.org/details/secretservicemagazine-1994-11/page/n8/mode/2up) | 18 | 8 |
-| [BODY BLOWS](https://archive.org/details/secretservicemagazine-1993-06/page/n21/mode/2up) | 6 | 21 |
+| [BODY BLOWS](https://archive.org/details/secretservicemagazine-1993-06/page/n20/mode/2up) | 6 | 21 |
 | [BODY BLOWS GALACTIC](https://archive.org/details/secretservicemagazine-1994-05/page/n10/mode/2up) | 13 | 10 |
 | [BODY SLAM](https://archive.org/details/secretservicemagazine-1996-02/page/n22/mode/2up) | 32 | 22 |
 | [BOGINI Z MARSA - VINYL](https://archive.org/details/secretservicemagazine-1995-11/page/n38/mode/2up) | 29 | 38 |
@@ -290,14 +290,14 @@
 | [BUG](https://archive.org/details/secretservicemagazine-1996-12/page/n26/mode/2up) | 41 | 26 |
 | [BUG ADVENTURE](https://archive.org/details/secretservicemagazine-1994-12/page/n55/mode/2up) | 19 | 55 |
 | [BUGGY BOY](https://archive.org/details/secretservicemagazine-1994-03/page/n6/mode/2up) | 11 | 6 |
-| [BUILDING OF A DYNASTY, THE - DUNE 2](https://archive.org/details/secretservicemagazine-1994-01/page/n12/mode/2up) | 9 | 12 |
+| [BUILDING OF A DYNASTY, THE - DUNE 2](https://archive.org/details/secretservicemagazine-1994-01/page/n11/mode/2up) | 9 | 12 |
 | [BULLY'S SPORTING DARTS](https://archive.org/details/secretservicemagazine-1994-09/page/n46/mode/2up) | 16 | 46 |
 | [BUREAU 13](https://archive.org/details/secretservicemagazine-1995-07/page/n40/mode/2up) | 26 | 40 |
 | [BURIED IN TIME - THE JOURNEYMAN PROJECT 2](https://archive.org/details/secretservicemagazine-1996-01/page/n52/mode/2up) | 31 | 52 |
 | [BURNOUT](https://archive.org/details/secretservicemagazine-1997-03/page/n75/mode/2up) | 44 | 75 |
 | [BUZZ ALDRIN'S RACE INTO SPACE](https://archive.org/details/secretservicemagazine-1993-08/page/n12/mode/2up) | 8 | 12 |
 | [CABAL](https://archive.org/details/secretservicemagazine-1995-01/page/n26/mode/2up) | 20 | 26 |
-| [CADAVER](https://archive.org/details/secretservicemagazine-1994-01/page/n14/mode/2up) | 9 | 14 |
+| [CADAVER](https://archive.org/details/secretservicemagazine-1994-01/page/n13/mode/2up) | 9 | 14 |
 | [CAESAR 2](https://archive.org/details/secretservicemagazine-1996-01/page/n60/mode/2up) | 31 | 60 |
 | [CALLAHAN'S CROSSTIME SALOON](https://archive.org/details/secretservicemagazine-1997-06/page/n45/mode/2up) | 47 | 45 |
 | [CALLAHAN'S CROSSTIME SALOON](https://archive.org/details/secretservicemagazine-1997-09/page/n58/mode/2up) | 49 | 58 |
@@ -307,14 +307,14 @@
 | [CAPITAL PUNISHMENT](https://archive.org/details/secretservicemagazine-1997-02/page/n78/mode/2up) | 43 | 78 |
 | [CAPITALISM](https://archive.org/details/secretservicemagazine-1996-02/page/n56/mode/2up) | 32 | 56 |
 | [CAPTAIN QUAZAR](https://archive.org/details/secretservicemagazine-1997-05/page/n32/mode/2up) | 46 | 32 |
-| [CAR & DRIVER](https://archive.org/details/secretservicemagazine-1993-04/page/n29/mode/2up) | 4 | 29 |
+| [CAR & DRIVER](https://archive.org/details/secretservicemagazine-1993-04/page/n28/mode/2up) | 4 | 29 |
 | [CARMAGEDDON](https://archive.org/details/secretservicemagazine-1997-06/page/n37/mode/2up) | 47 | 37 |
-| [CARRIER STRIKE](https://archive.org/details/secretservicemagazine-1993-06/page/n30/mode/2up) | 6 | 30 |
-| [CARRIERS AT WAR 1 i 2](https://archive.org/details/secretservicemagazine-1993-06/page/n28/mode/2up) | 6 | 28 |
+| [CARRIER STRIKE](https://archive.org/details/secretservicemagazine-1993-06/page/n29/mode/2up) | 6 | 30 |
+| [CARRIERS AT WAR 1 i 2](https://archive.org/details/secretservicemagazine-1993-06/page/n27/mode/2up) | 6 | 28 |
 | [CASTLE](https://archive.org/details/secretservicemagazine-1993-07/page/n8/mode/2up) | 7 | 8 |
 | [CASTLE KINGDOMS](https://archive.org/details/secretservicemagazine-1997-07/page/n76/mode/2up) | 48 | 76 |
 | [CASTLE MASTER](https://archive.org/details/secretservicemagazine-1995-06/page/n20/mode/2up) | 25 | 20 |
-| [CASTLES 2](https://archive.org/details/secretservicemagazine-1993-04/page/n32/mode/2up) | 4 | 32 |
+| [CASTLES 2](https://archive.org/details/secretservicemagazine-1993-04/page/n31/mode/2up) | 4 | 32 |
 | [CATFIGHT](https://archive.org/details/secretservicemagazine-1996-11/page/n31/mode/2up) | 40 | 31 |
 | [CATZ! - YOUR COMPUTER PETZ](https://archive.org/details/secretservicemagazine-1997-11/page/n41/mode/2up) | 51 | 41 |
 | [CAVE WARS](https://archive.org/details/secretservicemagazine-1997-03/page/n58/mode/2up) | 44 | 58 |
@@ -333,7 +333,7 @@
 | [CHRONICLES OF THE SWORDS cz.2](https://archive.org/details/secretservicemagazine-1996-09/page/n48/mode/2up) | 38 | 48 |
 | [CHRONOMASTER cz.1](https://archive.org/details/secretservicemagazine-1996-05/page/n47/mode/2up) | 35 | 47 |
 | [CHRONOMASTER cz.2](https://archive.org/details/secretservicemagazine-1996-06/page/n44/mode/2up) | 36 | 44 |
-| [CHUCK YEAGER'S AIR COMBAT](https://archive.org/details/secretservicemagazine-1994-01/page/n50/mode/2up) | 9 | 34 |
+| [CHUCK YEAGER'S AIR COMBAT](https://archive.org/details/secretservicemagazine-1994-01/page/n49/mode/2up) | 9 | 34 |
 | [CIEMNA STRONA](https://archive.org/details/secretservicemagazine-1997-11/page/n77/mode/2up) | 51 | 77 |
 | [CINDRELLA](https://archive.org/details/secretservicemagazine-1995-02/page/n38/mode/2up) | 21 | 38 |
 | [CIRCLE OF BLOOD - BROKEN SWORD](https://archive.org/details/secretservicemagazine-1997-01/page/n46/mode/2up) | 42 | 46 |
@@ -393,7 +393,7 @@
 | [CONSTRUCTOR](https://archive.org/details/secretservicemagazine-1997-11/page/n48/mode/2up) | 51 | 48 |
 | [COOL WORLD](https://archive.org/details/secretservicemagazine-1994-10/page/n19/mode/2up) | 17 | 19 |
 | [CORRIDOR 7](https://archive.org/details/secretservicemagazine-1995-03/page/n31/mode/2up) | 22 | 31 |
-| [COSMIC GENDER-BENDER, THE - REX NEBULAR](https://archive.org/details/secretservicemagazine-1993-04/page/n22/mode/2up) | 4 | 22 |
+| [COSMIC GENDER-BENDER, THE - REX NEBULAR](https://archive.org/details/secretservicemagazine-1993-04/page/n21/mode/2up) | 4 | 22 |
 | [COSMIC SPACEHEAD](https://archive.org/details/secretservicemagazine-1994-09/page/n10/mode/2up) | 16 | 10 |
 | [COUNT DUCKULA](https://archive.org/details/secretservicemagazine-1994-11/page/n9/mode/2up) | 18 | 9 |
 | [COUNT DUCKULA 2](https://archive.org/details/secretservicemagazine-1994-11/page/n9/mode/2up) | 18 | 9 |
@@ -556,7 +556,7 @@
 | [????? DZIEŁO MAGÓW](https://archive.org/details/secretservicemagazine-1997-10/page/n86/mode/2up) | 50 | 86 |
 | [DRILLER](https://archive.org/details/secretservicemagazine-1995-06/page/n21/mode/2up) | 25 | 21 |
 | [DRIP](https://archive.org/details/secretservicemagazine-1995-02/page/n10/mode/2up) | 21 | 10 |
-| [DROID](https://archive.org/details/secretservicemagazine-1994-01/page/n9/mode/2up) | 9 | 9 |
+| [DROID](https://archive.org/details/secretservicemagazine-1994-01/page/n8/mode/2up) | 9 | 9 |
 | [DROWNED GOD](https://archive.org/details/secretservicemagazine-1997-05/page/n43/mode/2up) | 46 | 43 |
 | [DRUG WARS](https://archive.org/details/secretservicemagazine-1995-07/page/n64/mode/2up) | 26 | 64 |
 | [DRUID](https://archive.org/details/secretservicemagazine-1996-02/page/n50/mode/2up) | 32 | 50 |
@@ -564,7 +564,7 @@
 | [DUKE NUKEM 3D](https://archive.org/details/secretservicemagazine-1996-04/page/n84/mode/2up) | 34 | 84 |
 | [DUNE cz.1](https://archive.org/details/secretservicemagazine-1994-05/page/n20/mode/2up) | 13 | 20 |
 | [DUNE cz.2](https://archive.org/details/secretservicemagazine-1994-06/page/n25/mode/2up) | 14 | 25 |
-| [DUNE 2 - THE BUILDING OF A DYNASTY](https://archive.org/details/secretservicemagazine-1994-01/page/n12/mode/2up) | 9 | 12 |
+| [DUNE 2 - THE BUILDING OF A DYNASTY](https://archive.org/details/secretservicemagazine-1994-01/page/n11/mode/2up) | 9 | 12 |
 | [DUNGEON HACK](https://archive.org/details/secretservicemagazine-1995-07/page/n31/mode/2up) | 26 | 31 |
 | [DUNGEON KEEPER cz.1](https://archive.org/details/secretservicemagazine-1997-06/page/n54/mode/2up) | 47 | 54 |
 | [DUNGEON KEEPER cz.2](https://archive.org/details/secretservicemagazine-1997-09/page/n62/mode/2up) | 49 | 62 |
@@ -572,7 +572,7 @@
 | [DUST cz.1](https://archive.org/details/secretservicemagazine-1996-06/page/n60/mode/2up) | 36 | 60 |
 | [DUST cz.2](https://archive.org/details/secretservicemagazine-1996-07/page/n44/mode/2up) | 37 | 44 |
 | [DYNA BLASTER](https://archive.org/details/secretservicemagazine-1993-07/page/n15/mode/2up) | 7 | 15 |
-| [DYNAMO](https://archive.org/details/secretservicemagazine-1993-06/page/n16/mode/2up) | 6 | 16 |
+| [DYNAMO](https://archive.org/details/secretservicemagazine-1993-06/page/n15/mode/2up) | 6 | 16 |
 | [EAGLE EYE MYSTERIES](https://archive.org/details/secretservicemagazine-1994-07/page/n22/mode/2up) | 15 | 23 |
 | [EARTH 2140](https://archive.org/details/secretservicemagazine-1997-12/page/n71/mode/2up) | 52 | 71 |
 | [EARTHSIEGE 2](https://archive.org/details/secretservicemagazine-1996-06/page/n38/mode/2up) | 36 | 38 |
@@ -643,11 +643,11 @@
 | [EXTREME ASSAULT](https://archive.org/details/secretservicemagazine-1997-07/page/n35/mode/2up) | 48 | 35 |
 | [EXTREME PINBALL](https://archive.org/details/secretservicemagazine-1996-02/page/n56/mode/2up) | 32 | 56 |
 | [EYE OF THE BEHOLDER 2 - THE LEGEND OF DARKMOON](https://archive.org/details/secretservicemagazine-1995-10/page/n40/mode/2up) | 28 | 40 |
-| [EYE OF THE BEHOLDER 3](https://archive.org/details/secretservicemagazine-1993-04/page/n24/mode/2up) | 4 | 24 |
+| [EYE OF THE BEHOLDER 3](https://archive.org/details/secretservicemagazine-1993-04/page/n23/mode/2up) | 4 | 24 |
 | [F/A-18 HORNET 3.0](https://archive.org/details/secretservicemagazine-1997-06/page/n41/mode/2up) | 47 | 41 |
 | [F-1 TORNADO](https://archive.org/details/secretservicemagazine-1995-07/page/n10/mode/2up) | 26 | 10 |
 | [F-14 TOMCAT SIMULATOR, THE - FLEET DEFENDER](https://archive.org/details/secretservicemagazine-1994-06/page/n22/mode/2up) | 14 | 22 |
-| [F-15 STRIKE EAGLE 3](https://archive.org/details/secretservicemagazine-1994-01/page/n44/mode/2up) | 9 | 28 |
+| [F-15 STRIKE EAGLE 3](https://archive.org/details/secretservicemagazine-1994-01/page/n43/mode/2up) | 9 | 28 |
 | [F-15 STRIKE EAGLE 3](https://archive.org/details/secretservicemagazine-1994-12/page/n52/mode/2up) | 19 | 52 |
 | [F-16 COMBAT PILOT](https://archive.org/details/secretservicemagazine-1994-10/page/n66/mode/2up) | 17 | 66 |
 | [F-16 FIGHTING FALCON](https://archive.org/details/secretservicemagazine-1997-09/page/n42/mode/2up) | 49 | 42 |
@@ -657,7 +657,7 @@
 | [F1 (VROOM)](https://archive.org/details/secretservicemagazine-1994-07/page/n33/mode/2up) | 15 | 34 |
 | [FABLE cz.1](https://archive.org/details/secretservicemagazine-1997-01/page/n56/mode/2up) | 42 | 56 |
 | [FABLE cz.2](https://archive.org/details/secretservicemagazine-1997-02/page/n42/mode/2up) | 43 | 42 |
-| [FABLES AND FIENDS - THE LEGEND OF KYRANDIA 1 cz.1](https://archive.org/details/secretservicemagazine-1993-06/page/n36/mode/2up) | 6 | 36 |
+| [FABLES AND FIENDS - THE LEGEND OF KYRANDIA 1 cz.1](https://archive.org/details/secretservicemagazine-1993-06/page/n35/mode/2up) | 6 | 36 |
 | [FABLES AND FIENDS - THE LEGEND OF KYRANDIA 1 cz.2](https://archive.org/details/secretservicemagazine-1994-06/page/n49/mode/2up) | 14 | 49 |
 | [FACE OF THE ENEMY - ANGEL DEVOID](https://archive.org/details/secretservicemagazine-1996-05/page/n51/mode/2up) | 35 | 51 |
 | [FADE TO BLACK](https://archive.org/details/secretservicemagazine-1995-12/page/n52/mode/2up) | 30 | 52 |
@@ -670,14 +670,14 @@
 | [FANTASTIC SOCCER](https://archive.org/details/secretservicemagazine-1995-07/page/n10/mode/2up) | 26 | 10 |
 | [FANTASY EMPIRES](https://archive.org/details/secretservicemagazine-1995-04/page/n78/mode/2up) | 23 | 78 |
 | [FANTASY GENERAL](https://archive.org/details/secretservicemagazine-1996-06/page/n58/mode/2up) | 36 | 58 |
-| [FANTASY WORLD DIZZY](https://archive.org/details/secretservicemagazine-1993-04/page/n10/mode/2up) | 4 | 10 |
+| [FANTASY WORLD DIZZY](https://archive.org/details/secretservicemagazine-1993-04/page/n9/mode/2up) | 4 | 10 |
 | [FASCINATION](https://archive.org/details/secretservicemagazine-1995-11/page/n48/mode/2up) | 29 | 48 |
 | [FAST FOOD DIZZY](https://archive.org/details/secretservicemagazine-1993-07/page/n10/mode/2up) | 7 | 10 |
 | [FATAL FURY 3](https://archive.org/details/secretservicemagazine-1997-04/page/n20/mode/2up) | 45 | 20 |
 | [FATAL RACING](https://archive.org/details/secretservicemagazine-1995-12/page/n84/mode/2up) | 30 | 84 |
 | [FATE OF ATLANTIS - INDIANA JONES 4](https://archive.org/details/secretservicemagazine-1994-06/page/n25/mode/2up) | 14 | 25 |
 | [FATE OF ATLANTIS - INDIANA JONES 4](https://archive.org/details/secretservicemagazine-1994-10/page/n38/mode/2up) | 17 | 38 |
-| [FATUM](https://archive.org/details/secretservicemagazine-1993-06/page/n7/mode/2up) | 6 | 7 |
+| [FATUM](https://archive.org/details/secretservicemagazine-1993-06/page/n6/mode/2up) | 6 | 7 |
 | [FEARS](https://archive.org/details/secretservicemagazine-1996-03/page/n18/mode/2up) | 33 | 18 |
 | [FEEBLE FILES, THE](https://archive.org/details/secretservicemagazine-1997-10/page/n57/mode/2up) | 50 | 57 |
 | [FIELDS OF BATTLE](https://archive.org/details/secretservicemagazine-1996-06/page/n52/mode/2up) | 36 | 52 |
@@ -697,22 +697,22 @@
 | [FINAL SPLAT](https://archive.org/details/secretservicemagazine-1996-10/page/n20/mode/2up) | 39 | 20 |
 | [FIRE & ICE](https://archive.org/details/secretservicemagazine-1994-02/page/n9/mode/2up) | 10 | 9 |
 | [FIRE & STEEL - DRAGONHEART](https://archive.org/details/secretservicemagazine-1997-02/page/n29/mode/2up) | 43 | 29 |
-| [FIRE BRIGADE](https://archive.org/details/secretservicemagazine-1993-06/page/n27/mode/2up) | 6 | 27 |
+| [FIRE BRIGADE](https://archive.org/details/secretservicemagazine-1993-06/page/n26/mode/2up) | 6 | 27 |
 | [FIRE FIGHT](https://archive.org/details/secretservicemagazine-1996-03/page/n34/mode/2up) | 33 | 34 |
 | [FIRE FIGHT](https://archive.org/details/secretservicemagazine-1996-11/page/n35/mode/2up) | 40 | 35 |
 | [FIRE FORCE](https://archive.org/details/secretservicemagazine-1995-09/page/n20/mode/2up) | 27 | 20 |
 | [FIRESTORM THUNDERHAWK 2](https://archive.org/details/secretservicemagazine-1996-02/page/n36/mode/2up) | 32 | 36 |
 | [FIRO & KLAWD](https://archive.org/details/secretservicemagazine-1997-04/page/n30/mode/2up) | 45 | 30 |
 | [FIRST ENCOUNTER - FRONTIER - ELITE 3](https://archive.org/details/secretservicemagazine-1996-01/page/n35/mode/2up) | 31 | 35 |
-| [FIST FIGHTER](https://archive.org/details/secretservicemagazine-1993-06/page/n10/mode/2up) | 6 | 10 |
-| [FLASHBACK cz.1](https://archive.org/details/secretservicemagazine-1993-04/page/n34/mode/2up) | 4 | 34 |
+| [FIST FIGHTER](https://archive.org/details/secretservicemagazine-1993-06/page/n9/mode/2up) | 6 | 10 |
+| [FLASHBACK cz.1](https://archive.org/details/secretservicemagazine-1993-04/page/n33/mode/2up) | 4 | 34 |
 | [FLASHBACK cz.2](https://archive.org/details/secretservicemagazine-1993-05/page/n34/mode/2up) | 5 | 34 |
 | [FLEET DEFENDER - THE F-14 TOMCAT SIMULATOR](https://archive.org/details/secretservicemagazine-1994-06/page/n22/mode/2up) | 14 | 22 |
 | [FLEET DEFENDER GOLD - THE F-14 TOMCAT SIMULATOR](https://archive.org/details/secretservicemagazine-1995-04/page/n53/mode/2up) | 23 | 53 |
 | [FLIGHT COMMANDER 2](https://archive.org/details/secretservicemagazine-1995-03/page/n62/mode/2up) | 22 | 62 |
 | [FLIGHT OF THE AMAZON QUEEN](https://archive.org/details/secretservicemagazine-1995-09/page/n32/mode/2up) | 27 | 32 |
 | [FLIGHT OF THE INTRUDER](https://archive.org/details/secretservicemagazine-1994-09/page/n28/mode/2up) | 16 | 28 |
-| [FLIGHT SIMULATOR 5](https://archive.org/details/secretservicemagazine-1994-01/page/n40/mode/2up) | 9 | 24 |
+| [FLIGHT SIMULATOR 5](https://archive.org/details/secretservicemagazine-1994-01/page/n39/mode/2up) | 9 | 24 |
 | [FLIGHT SIMULATOR 5](https://archive.org/details/secretservicemagazine-1997-01/page/n40/mode/2up) | 42 | 40 |
 | [FLIGHT SIMULATOR 98](https://archive.org/details/secretservicemagazine-1997-11/page/n38/mode/2up) | 51 | 38 |
 | [FLIGHT UNLIMITED](https://archive.org/details/secretservicemagazine-1995-11/page/n78/mode/2up) | 29 | 78 |
@@ -758,7 +758,7 @@
 | [FUTURE DIMENSIONS](https://archive.org/details/secretservicemagazine-1996-01/page/n25/mode/2up) | 31 | 25 |
 | [FUTURE OF WARS, THE - DARK REIGN](https://archive.org/details/secretservicemagazine-1997-11/page/n56/mode/2up) | 51 | 56 |
 | [FUTURE SHOCK - THE TERMINATOR](https://archive.org/details/secretservicemagazine-1996-02/page/n38/mode/2up) | 32 | 38 |
-| [FUTURE WARS - ADVENTURES IN TIME](https://archive.org/details/secretservicemagazine-1993-04/page/n26/mode/2up) | 4 | 26 |
+| [FUTURE WARS - ADVENTURES IN TIME](https://archive.org/details/secretservicemagazine-1993-04/page/n25/mode/2up) | 4 | 26 |
 | [FUZZY'S WORLD OF MINIATURE SPACE GOLF](https://archive.org/details/secretservicemagazine-1995-11/page/n37/mode/2up) | 29 | 37 |
 | [FX FIGHTER](https://archive.org/details/secretservicemagazine-1995-09/page/n28/mode/2up) | 27 | 28 |
 | [FX FIGHTER](https://archive.org/details/secretservicemagazine-1995-11/page/n64/mode/2up) | 29 | 64 |
@@ -793,8 +793,8 @@
 | [GIEŁDA ŚWIATOWA](https://archive.org/details/secretservicemagazine-1996-09/page/n23/mode/2up) | 38 | 23 |
 | [GIN RUMMY](https://archive.org/details/secretservicemagazine-1994-09/page/n42/mode/2up) | 16 | 42 |
 | [GLOBAL DOMINATION](https://archive.org/details/secretservicemagazine-1994-03/page/n43/mode/2up) | 11 | 43 |
-| [GLOBAL EFFECT](https://archive.org/details/secretservicemagazine-1993-04/page/n30/mode/2up) | 4 | 30 |
-| [GLOBAL WAR](https://archive.org/details/secretservicemagazine-1994-01/page/n6/mode/2up) | 9 | 6 |
+| [GLOBAL EFFECT](https://archive.org/details/secretservicemagazine-1993-04/page/n29/mode/2up) | 4 | 30 |
+| [GLOBAL WAR](https://archive.org/details/secretservicemagazine-1994-01/page/n5/mode/2up) | 9 | 6 |
 | [GLOBAL WARFARE SIMULATOR](https://archive.org/details/secretservicemagazine-1994-03/page/n34/mode/2up) | 11 | 34 |
 | [GLOOM](https://archive.org/details/secretservicemagazine-1995-10/page/n22/mode/2up) | 28 | 22 |
 | [GLOOM DELUXE](https://archive.org/details/secretservicemagazine-1996-05/page/n19/mode/2up) | 35 | 19 |
@@ -815,7 +815,7 @@
 | [GRAND THEFT AUTO](https://archive.org/details/secretservicemagazine-1997-12/page/n46/mode/2up) | 52 | 46 |
 | [GRANDEST FLEET 2, THE](https://archive.org/details/secretservicemagazine-1995-10/page/n63/mode/2up) | 28 | 63 |
 | [GREAT BATTLES OF ALEXANDER, THE](https://archive.org/details/secretservicemagazine-1997-09/page/n70/mode/2up) | 49 | 70 |
-| [GREAT ESCAPE](https://archive.org/details/secretservicemagazine-1994-01/page/n10/mode/2up) | 9 | 10 |
+| [GREAT ESCAPE](https://archive.org/details/secretservicemagazine-1994-01/page/n9/mode/2up) | 9 | 10 |
 | [GREAT GAME, THE - SPYCRAFT](https://archive.org/details/secretservicemagazine-1996-07/page/n47/mode/2up) | 37 | 47 |
 | [GREAT NAVAL BATTLES 2 - GUADALCANAL](https://archive.org/details/secretservicemagazine-1994-07/page/n48/mode/2up) | 15 | 49 |
 | [GREAT NAVAL BATTLES 3](https://archive.org/details/secretservicemagazine-1995-05/page/n62/mode/2up) | 24 | 62 |
@@ -846,11 +846,11 @@
 | [HARDBALL](https://archive.org/details/secretservicemagazine-1995-05/page/n59/mode/2up) | 24 | 59 |
 | [HARDCORE BOMBERBOY](https://archive.org/details/secretservicemagazine-1996-10/page/n20/mode/2up) | 39 | 20 |
 | [HARDWAR](https://archive.org/details/secretservicemagazine-1997-09/page/n38/mode/2up) | 49 | 38 |
-| [HARPOON](https://archive.org/details/secretservicemagazine-1994-01/page/n47/mode/2up) | 9 | 31 |
+| [HARPOON](https://archive.org/details/secretservicemagazine-1994-01/page/n46/mode/2up) | 9 | 31 |
 | [HARPOON v.1.51](https://archive.org/details/secretservicemagazine-1995-03/page/n64/mode/2up) | 22 | 64 |
 | [HARPOON 2](https://archive.org/details/secretservicemagazine-1995-04/page/n75/mode/2up) | 23 | 75 |
 | [HARPOON 2 ADMIRAL'S EDITION](https://archive.org/details/secretservicemagazine-1996-12/page/n54/mode/2up) | 41 | 54 |
-| [HARPOON ????? v.1.3](https://archive.org/details/secretservicemagazine-1994-01/page/n48/mode/2up) | 9 | 32 |
+| [HARPOON ????? v.1.3](https://archive.org/details/secretservicemagazine-1994-01/page/n47/mode/2up) | 9 | 32 |
 | [HARPOON CLASSIC](https://archive.org/details/secretservicemagazine-1995-03/page/n64/mode/2up) | 22 | 64 |
 | [HARRY'S BALLOONS](https://archive.org/details/secretservicemagazine-1996-10/page/n22/mode/2up) | 39 | 22 |
 | [HARVEST OF SOULS - SHIVERS 2](https://archive.org/details/secretservicemagazine-1997-06/page/n46/mode/2up) | 47 | 46 |
@@ -863,7 +863,7 @@
 | [HEAVY GEAR](https://archive.org/details/secretservicemagazine-1997-12/page/n38/mode/2up) | 52 | 38 |
 | [HEIMDALL](https://archive.org/details/secretservicemagazine-1994-02/page/n14/mode/2up) | 10 | 14 |
 | [HEIMDALL 2](https://archive.org/details/secretservicemagazine-1994-11/page/n22/mode/2up) | 18 | 22 |
-| [HEIR TODAY, GONE TOMORROW - KING'S QUEST 6](https://archive.org/details/secretservicemagazine-1993-04/page/n36/mode/2up) | 4 | 36 |
+| [HEIR TODAY, GONE TOMORROW - KING'S QUEST 6](https://archive.org/details/secretservicemagazine-1993-04/page/n35/mode/2up) | 4 | 36 |
 | [HEIRS TO THE THRONE](https://archive.org/details/secretservicemagazine-1994-05/page/n43/mode/2up) | 13 | 43 |
 | [HELICOPS](https://archive.org/details/secretservicemagazine-1997-06/page/n28/mode/2up) | 47 | 28 |
 | [HELL](https://archive.org/details/secretservicemagazine-1995-05/page/n42/mode/2up) | 24 | 42 |
@@ -901,7 +901,7 @@
 | [HUMANS](https://archive.org/details/secretservicemagazine-1993-07/page/n11/mode/2up) | 7 | 11 |
 | [HUNTER HUNTED](https://archive.org/details/secretservicemagazine-1997-03/page/n31/mode/2up) | 44 | 31 |
 | [HUYGENS DISCLOSURE](https://archive.org/details/secretservicemagazine-1997-09/page/n51/mode/2up) | 49 | 51 |
-| [HYDRAULIK](https://archive.org/details/secretservicemagazine-1994-01/page/n8/mode/2up) | 9 | 8 |
+| [HYDRAULIK](https://archive.org/details/secretservicemagazine-1994-01/page/n7/mode/2up) | 9 | 8 |
 | [HYPER BLADE](https://archive.org/details/secretservicemagazine-1997-02/page/n24/mode/2up) | 43 | 24 |
 | [HYPERCYCLES](https://archive.org/details/secretservicemagazine-1996-01/page/n25/mode/2up) | 31 | 25 |
 | [I HAVE NO MOUTH AND I MUST SCREAM](https://archive.org/details/secretservicemagazine-1996-02/page/n42/mode/2up) | 32 | 42 |
@@ -959,7 +959,7 @@
 | [ISLE WARS v2.0](https://archive.org/details/secretservicemagazine-1994-11/page/n61/mode/2up) | 18 | 61 |
 | [ISLES OF TERRA - MIGHT & MAGIC 3](https://archive.org/details/secretservicemagazine-1994-02/page/n28/mode/2up) | 10 | 28 |
 | [JACK AND THE BEANSTALK](https://archive.org/details/secretservicemagazine-1995-02/page/n33/mode/2up) | 21 | 33 |
-| [JACK NICKLAUS GOLF](https://archive.org/details/secretservicemagazine-1993-04/page/n21/mode/2up) | 4 | 21 |
+| [JACK NICKLAUS GOLF](https://archive.org/details/secretservicemagazine-1993-04/page/n20/mode/2up) | 4 | 21 |
 | [JACK NICKLAUS GOLF 4](https://archive.org/details/secretservicemagazine-1997-10/page/n33/mode/2up) | 50 | 33 |
 | [JAFFAR](https://archive.org/details/secretservicemagazine-1993-08/page/n8/mode/2up) | 8 | 8 |
 | [JAGGED ALLIANCE](https://archive.org/details/secretservicemagazine-1995-09/page/n64/mode/2up) | 27 | 64 |
@@ -1003,14 +1003,14 @@
 | [KAMIKAZE](https://archive.org/details/secretservicemagazine-1994-05/page/n6/mode/2up) | 13 | 6 |
 | [KARGON](https://archive.org/details/secretservicemagazine-1997-06/page/n77/mode/2up) | 47 | 77 |
 | [KATHARSIS](https://archive.org/details/secretservicemagazine-1997-04/page/n34/mode/2up) | 45 | 34 |
-| [KENNY DALGLISH'S FOOTBALL](https://archive.org/details/secretservicemagazine-1994-01/page/n11/mode/2up) | 9 | 11 |
+| [KENNY DALGLISH'S FOOTBALL](https://archive.org/details/secretservicemagazine-1994-01/page/n10/mode/2up) | 9 | 11 |
 | [KGB](https://archive.org/details/secretservicemagazine-1994-06/page/n10/mode/2up) | 14 | 10 |
 | [KGB SUPER SPY](https://archive.org/details/secretservicemagazine-1994-05/page/n6/mode/2up) | 13 | 6 |
 | [KICK OFF](https://archive.org/details/secretservicemagazine-1996-10/page/n33/mode/2up) | 39 | 33 |
 | [KICK OFF 3 - EUROPEAN CHALLENGE](https://archive.org/details/secretservicemagazine-1995-05/page/n23/mode/2up) | 24 | 23 |
 | [KICK OFF 3 - EUROPEAN CHALLENGE](https://archive.org/details/secretservicemagazine-1996-06/page/n27/mode/2up) | 36 | 27 |
-| [KING'S QUEST 5 - ABSENCE MAKES THE HEART GO YONDER!](https://archive.org/details/secretservicemagazine-1994-01/page/n36/mode/2up) | 9 | 20 |
-| [KING'S QUEST 6 - HEIR TODAY, GONE TOMORROW](https://archive.org/details/secretservicemagazine-1993-04/page/n36/mode/2up) | 4 | 36 |
+| [KING'S QUEST 5 - ABSENCE MAKES THE HEART GO YONDER!](https://archive.org/details/secretservicemagazine-1994-01/page/n35/mode/2up) | 9 | 20 |
+| [KING'S QUEST 6 - HEIR TODAY, GONE TOMORROW](https://archive.org/details/secretservicemagazine-1993-04/page/n35/mode/2up) | 4 | 36 |
 | [KING'S QUEST 7](https://archive.org/details/secretservicemagazine-1995-04/page/n40/mode/2up) | 23 | 40 |
 | [KING'S QUEST 8 - MASK OF ETERNITY (WP)](https://archive.org/details/secretservicemagazine-1997-09/page/n10/mode/2up) | 49 | 10 |
 | [KINGDOM](https://archive.org/details/secretservicemagazine-1995-12/page/n59/mode/2up) | 30 | 59 |
@@ -1024,7 +1024,7 @@
 | [KISEKAE - KISS](https://archive.org/details/secretservicemagazine-1996-10/page/n96/mode/2up) | 39 | 96 |
 | [KISS - KISEKAE](https://archive.org/details/secretservicemagazine-1996-10/page/n96/mode/2up) | 39 | 96 |
 | [KKND](https://archive.org/details/secretservicemagazine-1997-05/page/n52/mode/2up) | 46 | 52 |
-| [KLATWA](https://archive.org/details/secretservicemagazine-1993-04/page/n8/mode/2up) | 4 | 8 |
+| [KLATWA](https://archive.org/details/secretservicemagazine-1993-04/page/n7/mode/2up) | 4 | 8 |
 | [KLATWA](https://archive.org/details/secretservicemagazine-1995-02/page/n7/mode/2up) | 21 | 7 |
 | [KLEMENS](https://archive.org/details/secretservicemagazine-1994-11/page/n8/mode/2up) | 18 | 8 |
 | [KLONDIKE](https://archive.org/details/secretservicemagazine-1994-09/page/n42/mode/2up) | 16 | 42 |
@@ -1043,13 +1043,13 @@
 | [KRUSTY'S SUPER FUN HOUSE](https://archive.org/details/secretservicemagazine-1994-04/page/n8/mode/2up) | 12 | 8 |
 | [KSIĄŻĘ](https://archive.org/details/secretservicemagazine-1994-10/page/n10/mode/2up) | 17 | 10 |
 | [KSIĄŻĘ I TCHÓRZ (WP)](https://archive.org/details/secretservicemagazine-1997-06/page/n14/mode/2up) | 47 | 14 |
-| [KULT](https://archive.org/details/secretservicemagazine-1993-06/page/n7/mode/2up) | 6 | 7 |
+| [KULT](https://archive.org/details/secretservicemagazine-1993-06/page/n6/mode/2up) | 6 | 7 |
 | [KUPIEC](https://archive.org/details/secretservicemagazine-1996-04/page/n19/mode/2up) | 34 | 19 |
 | [KWIK SNAX DIZZY](https://archive.org/details/secretservicemagazine-1993-07/page/n10/mode/2up) | 7 | 10 |
 | [L'EMPEREUR](https://archive.org/details/secretservicemagazine-1993-03/page/n34/mode/2up) | 3 | 34 |
 | [LABIRYNTH OF TIME, THE](https://archive.org/details/secretservicemagazine-1994-10/page/n46/mode/2up) | 17 | 46 |
 | [LAMBORGHINI - AMERICAN CHALLENGE](https://archive.org/details/secretservicemagazine-1994-05/page/n7/mode/2up) | 13 | 7 |
-| [LANDS OF LORE - THE THRONE OF CHAOS cz.1](https://archive.org/details/secretservicemagazine-1993-06/page/n32/mode/2up) | 6 | 32 |
+| [LANDS OF LORE - THE THRONE OF CHAOS cz.1](https://archive.org/details/secretservicemagazine-1993-06/page/n31/mode/2up) | 6 | 32 |
 | [LANDS OF LORE - THE THRONE OF CHAOS cz.2](https://archive.org/details/secretservicemagazine-1993-07/page/n32/mode/2up) | 7 | 32 |
 | [LANDS OF LORE - THE THRONE OF CHAOS](https://archive.org/details/secretservicemagazine-1995-02/page/n44/mode/2up) | 21 | 44 |
 | [LANDS OF LORE 2 - GUARDIANS OF DESTINY (WP)](https://archive.org/details/secretservicemagazine-1997-05/page/n13/mode/2up) | 46 | 13 |
@@ -1068,7 +1068,7 @@
 | [LAST RITES](https://archive.org/details/secretservicemagazine-1997-11/page/n26/mode/2up) | 51 | 26 |
 | [LAST SOLDIER](https://archive.org/details/secretservicemagazine-1995-01/page/n19/mode/2up) | 20 | 19 |
 | [LAURA BOW IN THE DAGGER OF AMON RA](https://archive.org/details/secretservicemagazine-1993-03/page/n18/mode/2up) | 3 | 18 |
-| [LAW OF THE WEST](https://archive.org/details/secretservicemagazine-1993-06/page/n6/mode/2up) | 6 | 6 |
+| [LAW OF THE WEST](https://archive.org/details/secretservicemagazine-1993-06/page/n5/mode/2up) | 6 | 6 |
 | [LAZARUS](https://archive.org/details/secretservicemagazine-1996-05/page/n22/mode/2up) | 35 | 22 |
 | [LE CHUCK'S REVENGE - THE SECRET OF MONKEY ISLAND 2](https://archive.org/details/secretservicemagazine-1994-07/page/n45/mode/2up) | 15 | 46 |
 | [LEADING LAP](https://archive.org/details/secretservicemagazine-1996-06/page/n20/mode/2up) | 36 | 20 |
@@ -1079,7 +1079,7 @@
 | [LEGACY OF KAIN - BLOOD OMEN](https://archive.org/details/secretservicemagazine-1997-10/page/n37/mode/2up) | 50 | 37 |
 | [LEGEND OF DARKMOON, THE - EYE OF THE BEHOLDER 2](https://archive.org/details/secretservicemagazine-1995-10/page/n40/mode/2up) | 28 | 40 |
 | [LEGEND OF FORTRESS, THE - ISHAR 1](https://archive.org/details/secretservicemagazine-1994-09/page/n23/mode/2up) | 16 | 23 |
-| [LEGEND OF KYRANDIA 1, THE - FABLES AND FIENDS](https://archive.org/details/secretservicemagazine-1993-06/page/n36/mode/2up) | 6 | 36 |
+| [LEGEND OF KYRANDIA 1, THE - FABLES AND FIENDS](https://archive.org/details/secretservicemagazine-1993-06/page/n35/mode/2up) | 6 | 36 |
 | [LEGEND OF KYRANDIA 1, THE - FABLES AND FIENDS](https://archive.org/details/secretservicemagazine-1994-06/page/n49/mode/2up) | 14 | 49 |
 | [LEGEND OF KYRANDIA 2, THE - HAND OF FATE](https://archive.org/details/secretservicemagazine-1994-03/page/n26/mode/2up) | 11 | 26 |
 | [LEGEND OF KYRANDIA 2, THE - HAND OF FATE PL](https://archive.org/details/secretservicemagazine-1994-11/page/n28/mode/2up) | 18 | 28 |
@@ -1088,13 +1088,13 @@
 | [LEGENDS OF ROME](https://archive.org/details/secretservicemagazine-1997-11/page/n76/mode/2up) | 51 | 76 |
 | [LEGION](https://archive.org/details/secretservicemagazine-1996-07/page/n24/mode/2up) | 37 | 24 |
 | [LEISURE SUIT LARRY 1](https://archive.org/details/secretservicemagazine-1993-03/page/n25/mode/2up) | 3 | 25 |
-| [LEISURE SUIT LARRY 6 - SHAPE UP OR SLIP OUT](https://archive.org/details/secretservicemagazine-1994-01/page/n18/mode/2up) | 9 | 18 |
+| [LEISURE SUIT LARRY 6 - SHAPE UP OR SLIP OUT](https://archive.org/details/secretservicemagazine-1994-01/page/n17/mode/2up) | 9 | 18 |
 | [LEISURE SUIT LARRY 7 - LOVE FOR SAIL](https://archive.org/details/secretservicemagazine-1997-02/page/n40/mode/2up) | 43 | 40 |
 | [LEISURE SUIT LARRY 7 - LOVE FOR SAIL](https://archive.org/details/secretservicemagazine-1997-03/page/n40/mode/2up) | 44 | 40 |
 | [LEMMINGS](https://archive.org/details/secretservicemagazine-1994-06/page/n10/mode/2up) | 14 | 10 |
 | [LEMMINGS CHRONICLES](https://archive.org/details/secretservicemagazine-1996-03/page/n28/mode/2up) | 33 | 28 |
 | [LEMMINGS PAINTBALL](https://archive.org/details/secretservicemagazine-1996-07/page/n41/mode/2up) | 37 | 41 |
-| [LESTER MANLEY - LOST IN L.A.](https://archive.org/details/secretservicemagazine-1993-04/page/n18/mode/2up) | 4 | 18 |
+| [LESTER MANLEY - LOST IN L.A.](https://archive.org/details/secretservicemagazine-1993-04/page/n17/mode/2up) | 4 | 18 |
 | [LET'S DRAW: CARICATURE EDITION](https://archive.org/details/secretservicemagazine-1997-07/page/n73/mode/2up) | 48 | 73 |
 | [LEW LEON](https://archive.org/details/secretservicemagazine-1997-01/page/n28/mode/2up) | 42 | 28 |
 | [LIBERTY OR DEATH](https://archive.org/details/secretservicemagazine-1993-05/page/n32/mode/2up) | 5 | 32 |
@@ -1102,9 +1102,9 @@
 | [LIGA POLSKA MANAGER'95](https://archive.org/details/secretservicemagazine-1995-09/page/n59/mode/2up) | 27 | 59 |
 | [LIGA POLSKA MANAGER'96](https://archive.org/details/secretservicemagazine-1996-04/page/n20/mode/2up) | 34 | 20 |
 | [LIGHTHOUSE](https://archive.org/details/secretservicemagazine-1997-02/page/n38/mode/2up) | 43 | 38 |
-| [LINKS 386 PRO](https://archive.org/details/secretservicemagazine-1993-04/page/n21/mode/2up) | 4 | 21 |
+| [LINKS 386 PRO](https://archive.org/details/secretservicemagazine-1993-04/page/n20/mode/2up) | 4 | 21 |
 | [LINKS 386 PRO CD](https://archive.org/details/secretservicemagazine-1995-09/page/n31/mode/2up) | 27 | 31 |
-| [LINKS](https://archive.org/details/secretservicemagazine-1993-04/page/n21/mode/2up) | 4 | 21 |
+| [LINKS](https://archive.org/details/secretservicemagazine-1993-04/page/n20/mode/2up) | 4 | 21 |
 | [LINKS LS](https://archive.org/details/secretservicemagazine-1997-04/page/n24/mode/2up) | 45 | 24 |
 | [LION](https://archive.org/details/secretservicemagazine-1996-03/page/n30/mode/2up) | 33 | 30 |
 | [LION KING, THE](https://archive.org/details/secretservicemagazine-1994-12/page/n63/mode/2up) | 19 | 63 |
@@ -1132,19 +1132,19 @@
 | [LOST FILES OF SHERLOCK HOLMES, THE](https://archive.org/details/secretservicemagazine-1994-11/page/n44/mode/2up) | 18 | 44 |
 | [LOST FILES OF SHERLOCK HOLMES 2](https://archive.org/details/secretservicemagazine-1996-12/page/n44/mode/2up) | 41 | 44 |
 | [LOST GOLD, THE - MAD DOG McCREE](https://archive.org/details/secretservicemagazine-1994-09/page/n59/mode/2up) | 16 | 59 |
-| [LOST IN L.A. - LESTER MANLEY](https://archive.org/details/secretservicemagazine-1993-04/page/n18/mode/2up) | 4 | 18 |
+| [LOST IN L.A. - LESTER MANLEY](https://archive.org/details/secretservicemagazine-1993-04/page/n17/mode/2up) | 4 | 18 |
 | [LOST IN MINE](https://archive.org/details/secretservicemagazine-1996-02/page/n19/mode/2up) | 32 | 19 |
 | [LOST IN TIME](https://archive.org/details/secretservicemagazine-1994-03/page/n28/mode/2up) | 11 | 28 |
 | [LOST SECRET OF THE RAINFOREST - ECOQUEST 1](https://archive.org/details/secretservicemagazine-1993-03/page/n14/mode/2up) | 3 | 14 |
-| [LOST VIKINGS, THE](https://archive.org/details/secretservicemagazine-1994-01/page/n50/mode/2up) | 9 | 34 |
+| [LOST VIKINGS, THE](https://archive.org/details/secretservicemagazine-1994-01/page/n49/mode/2up) | 9 | 34 |
 | [LOST VIKINGS 2, THE - NORSE BY NORSE WEST](https://archive.org/details/secretservicemagazine-1997-04/page/n27/mode/2up) | 45 | 27 |
 | [LOTHAR MATHAUS](https://archive.org/details/secretservicemagazine-1994-07/page/n24/mode/2up) | 15 | 25 |
-| [LOTUS 3 - THE ULTIMATE CHALLENGE](https://archive.org/details/secretservicemagazine-1994-01/page/n12/mode/2up) | 9 | 12 |
+| [LOTUS 3 - THE ULTIMATE CHALLENGE](https://archive.org/details/secretservicemagazine-1994-01/page/n11/mode/2up) | 9 | 12 |
 | [LOTUS 3 - THE ULTIMATE CHALLENGE](https://archive.org/details/secretservicemagazine-1994-10/page/n28/mode/2up) | 17 | 28 |
 | [LOVE FOR SAIL - LEISURE SUIT LARRY 7](https://archive.org/details/secretservicemagazine-1997-02/page/n40/mode/2up) | 43 | 40 |
 | [LOVE FOR SAIL - LEISURE SUIT LARRY 7](https://archive.org/details/secretservicemagazine-1997-03/page/n40/mode/2up) | 44 | 40 |
 | [LUIGI & SPAGHETTI](https://archive.org/details/secretservicemagazine-1994-05/page/n34/mode/2up) | 13 | 34 |
-| [LURE OF THE TEMPRESS](https://archive.org/details/secretservicemagazine-1993-06/page/n20/mode/2up) | 6 | 20 |
+| [LURE OF THE TEMPRESS](https://archive.org/details/secretservicemagazine-1993-06/page/n19/mode/2up) | 6 | 20 |
 | [LOWCA GLOW](https://archive.org/details/secretservicemagazine-1996-07/page/n21/mode/2up) | 37 | 21 |
 | [M.A.X.](https://archive.org/details/secretservicemagazine-1997-03/page/n56/mode/2up) | 44 | 56 |
 | [MAABEUS](https://archive.org/details/secretservicemagazine-1995-05/page/n44/mode/2up) | 24 | 44 |
@@ -1154,7 +1154,7 @@
 | [MAD TV](https://archive.org/details/secretservicemagazine-1994-09/page/n45/mode/2up) | 16 | 45 |
 | [MAGESLAYER](https://archive.org/details/secretservicemagazine-1997-12/page/n41/mode/2up) | 52 | 41 |
 | [MAGIA](https://archive.org/details/secretservicemagazine-1994-07/page/n5/mode/2up) | 15 | 6 |
-| [MAGIA KRYSZTAŁU](https://archive.org/details/secretservicemagazine-1993-04/page/n8/mode/2up) | 4 | 8 |
+| [MAGIA KRYSZTAŁU](https://archive.org/details/secretservicemagazine-1993-04/page/n7/mode/2up) | 4 | 8 |
 | [MAGIC CARPET](https://archive.org/details/secretservicemagazine-1995-02/page/n36/mode/2up) | 21 | 36 |
 | [MAGIC CARPET - THE HIDDEN WORLDS](https://archive.org/details/secretservicemagazine-1995-09/page/n68/mode/2up) | 27 | 68 |
 | [MAGIC CARPET 2](https://archive.org/details/secretservicemagazine-1995-12/page/n40/mode/2up) | 30 | 40 |
@@ -1220,7 +1220,7 @@
 | [MICROPROSE SOCCER](https://archive.org/details/secretservicemagazine-1995-07/page/n19/mode/2up) | 26 | 19 |
 | [MICROSOFT ENCARTA '95](https://archive.org/details/secretservicemagazine-1995-04/page/n55/mode/2up) | 23 | 55 |
 | [MICROSOFT FOOTBALL](https://archive.org/details/secretservicemagazine-1997-01/page/n24/mode/2up) | 42 | 24 |
-| [MICROSOFT GOLF](https://archive.org/details/secretservicemagazine-1993-04/page/n21/mode/2up) | 4 | 21 |
+| [MICROSOFT GOLF](https://archive.org/details/secretservicemagazine-1993-04/page/n20/mode/2up) | 4 | 21 |
 | [MICROSOFT GOLF](https://archive.org/details/secretservicemagazine-1995-09/page/n30/mode/2up) | 27 | 30 |
 | [MICROSOFT GOLF](https://archive.org/details/secretservicemagazine-1997-01/page/n25/mode/2up) | 42 | 25 |
 | [MIDNIGHT PUZZLE](https://archive.org/details/secretservicemagazine-1994-10/page/n66/mode/2up) | 17 | 66 |
@@ -1388,14 +1388,14 @@
 | [PECHOWY PREZENT](https://archive.org/details/secretservicemagazine-1996-02/page/n21/mode/2up) | 32 | 21 |
 | [PENGUINS](https://archive.org/details/secretservicemagazine-1996-06/page/n26/mode/2up) | 36 | 26 |
 | [PEPE SRUBOKRECIK](https://archive.org/details/secretservicemagazine-1996-10/page/n23/mode/2up) | 39 | 23 |
-| [PEPPER'S ADVENTURE IN TIME](https://archive.org/details/secretservicemagazine-1994-01/page/n16/mode/2up) | 9 | 16 |
+| [PEPPER'S ADVENTURE IN TIME](https://archive.org/details/secretservicemagazine-1994-01/page/n15/mode/2up) | 9 | 16 |
 | [PERFECT GENERAL 2, THE](https://archive.org/details/secretservicemagazine-1996-07/page/n54/mode/2up) | 37 | 54 |
 | [PERFECT GENERAL - SCENARIES 2 WORLD WAR](https://archive.org/details/secretservicemagazine-1994-02/page/n27/mode/2up) | 10 | 27 |
 | [PERFECT WEAPON](https://archive.org/details/secretservicemagazine-1997-05/page/n25/mode/2up) | 46 | 25 |
 | [PERIHELION](https://archive.org/details/secretservicemagazine-1994-10/page/n24/mode/2up) | 17 | 24 |
 | [PETER AND THE WOLF](https://archive.org/details/secretservicemagazine-1995-04/page/n57/mode/2up) | 23 | 57 |
 | [PETER PAN](https://archive.org/details/secretservicemagazine-1994-05/page/n52/mode/2up) | 13 | 52 |
-| [PGA TOUR GOLF](https://archive.org/details/secretservicemagazine-1993-04/page/n21/mode/2up) | 4 | 21 |
+| [PGA TOUR GOLF](https://archive.org/details/secretservicemagazine-1993-04/page/n20/mode/2up) | 4 | 21 |
 | [PGA TOUR PRO](https://archive.org/details/secretservicemagazine-1997-12/page/n23/mode/2up) | 52 | 23 |
 | [PHANTASMAGORIA cz.1](https://archive.org/details/secretservicemagazine-1995-10/page/n42/mode/2up) | 28 | 42 |
 | [PHANTASMAGORIA cz.2](https://archive.org/details/secretservicemagazine-1995-12/page/n50/mode/2up) | 30 | 50 |
@@ -1420,7 +1420,7 @@
 | [PISARZ](https://archive.org/details/secretservicemagazine-1997-06/page/n79/mode/2up) | 47 | 79 |
 | [PITFALL](https://archive.org/details/secretservicemagazine-1995-11/page/n39/mode/2up) | 29 | 39 |
 | [PIZZA TYCOON](https://archive.org/details/secretservicemagazine-1995-05/page/n60/mode/2up) | 24 | 60 |
-| [PLANET ELEVEN - POSEIDON](https://archive.org/details/secretservicemagazine-1993-04/page/n7/mode/2up) | 4 | 7 |
+| [PLANET ELEVEN - POSEIDON](https://archive.org/details/secretservicemagazine-1993-04/page/n6/mode/2up) | 4 | 7 |
 | [PLAYER MANAGER 2](https://archive.org/details/secretservicemagazine-1995-10/page/n31/mode/2up) | 28 | 31 |
 | [PLAYER OF THE YEAR](https://archive.org/details/secretservicemagazine-1996-10/page/n34/mode/2up) | 39 | 34 |
 | [POD](https://archive.org/details/secretservicemagazine-1997-06/page/n34/mode/2up) | 47 | 34 |
@@ -1441,7 +1441,7 @@
 | [POOL 1 SNOOKER](https://archive.org/details/secretservicemagazine-1994-12/page/n9/mode/2up) | 19 | 9 |
 | [POPEYE 2](https://archive.org/details/secretservicemagazine-1994-11/page/n8/mode/2up) | 18 | 8 |
 | [POPULOUS 3 - THE THIRD COMING (WP)](https://archive.org/details/secretservicemagazine-1997-10/page/n22/mode/2up) | 50 | 22 |
-| [POSEIDON - PLANET ELEVEN](https://archive.org/details/secretservicemagazine-1993-04/page/n7/mode/2up) | 4 | 7 |
+| [POSEIDON - PLANET ELEVEN](https://archive.org/details/secretservicemagazine-1993-04/page/n6/mode/2up) | 4 | 7 |
 | [POSTAL](https://archive.org/details/secretservicemagazine-1996-02/page/n44/mode/2up) | 32 | 44 |
 | [POWER DOLLS](https://archive.org/details/secretservicemagazine-1996-06/page/n58/mode/2up) | 36 | 58 |
 | [POWER DRIVE](https://archive.org/details/secretservicemagazine-1995-02/page/n29/mode/2up) | 21 | 29 |
@@ -1465,11 +1465,11 @@
 | [PRIMAL RAGE](https://archive.org/details/secretservicemagazine-1995-11/page/n34/mode/2up) | 29 | 34 |
 | [PRIMAL RAGE](https://archive.org/details/secretservicemagazine-1996-06/page/n34/mode/2up) | 36 | 34 |
 | [PRIMAL RAGE](https://archive.org/details/secretservicemagazine-1996-10/page/n21/mode/2up) | 39 | 21 |
-| [PRINCE OF THE YOLKFOLK](https://archive.org/details/secretservicemagazine-1993-06/page/n10/mode/2up) | 6 | 10 |
+| [PRINCE OF THE YOLKFOLK](https://archive.org/details/secretservicemagazine-1993-06/page/n9/mode/2up) | 6 | 10 |
 | [PRISONER OF ICE](https://archive.org/details/secretservicemagazine-1995-09/page/n34/mode/2up) | 27 | 34 |
 | [PRIVATE EYE](https://archive.org/details/secretservicemagazine-1996-10/page/n63/mode/2up) | 39 | 63 |
 | [PRIVATE INVESTIGATOR](https://archive.org/details/secretservicemagazine-1996-09/page/n36/mode/2up) | 38 | 36 |
-| [PRIVATEER](https://archive.org/details/secretservicemagazine-1994-01/page/n42/mode/2up) | 9 | 26 |
+| [PRIVATEER](https://archive.org/details/secretservicemagazine-1994-01/page/n41/mode/2up) | 9 | 26 |
 | [PRIVATEER](https://archive.org/details/secretservicemagazine-1995-03/page/n45/mode/2up) | 22 | 45 |
 | [PRIVATEER 2: THE DARKENING](https://archive.org/details/secretservicemagazine-1997-01/page/n42/mode/2up) | 42 | 42 |
 | [PRO MOUNTAIN BIKE SIMULATOR](https://archive.org/details/secretservicemagazine-1994-11/page/n8/mode/2up) | 18 | 8 |
@@ -1553,7 +1553,7 @@
 | [RESURECTION: RISE 2 cz.3](https://archive.org/details/secretservicemagazine-1996-11/page/n26/mode/2up) | 40 | 26 |
 | [RETRIBUTION](https://archive.org/details/secretservicemagazine-1995-05/page/n43/mode/2up) | 24 | 43 |
 | [RETURN FIRE](https://archive.org/details/secretservicemagazine-1996-07/page/n39/mode/2up) | 37 | 39 |
-| [RETURN OF THE PHANTOM](https://archive.org/details/secretservicemagazine-1993-06/page/n15/mode/2up) | 6 | 15 |
+| [RETURN OF THE PHANTOM](https://archive.org/details/secretservicemagazine-1993-06/page/n14/mode/2up) | 6 | 15 |
 | [RETURN TO RINGWORLD](https://archive.org/details/secretservicemagazine-1995-09/page/n40/mode/2up) | 27 | 40 |
 | [RETURN TO THE GULF - DESERT STRIKE](https://archive.org/details/secretservicemagazine-1994-09/page/n37/mode/2up) | 16 | 37 |
 | [RETURN TO THE GULF - DESERT STRIKE](https://archive.org/details/secretservicemagazine-1994-11/page/n46/mode/2up) | 18 | 46 |
@@ -1563,7 +1563,7 @@
 | [REUNION](https://archive.org/details/secretservicemagazine-1996-03/page/n28/mode/2up) | 33 | 28 |
 | [REVERSE](https://archive.org/details/secretservicemagazine-1994-12/page/n27/mode/2up) | 19 | 27 |
 | [REVOLUTION X](https://archive.org/details/secretservicemagazine-1996-09/page/n37/mode/2up) | 38 | 37 |
-| [REX NEBULAR AND THE COSMIC GENDER-BENDER](https://archive.org/details/secretservicemagazine-1993-04/page/n22/mode/2up) | 4 | 22 |
+| [REX NEBULAR AND THE COSMIC GENDER-BENDER](https://archive.org/details/secretservicemagazine-1993-04/page/n21/mode/2up) | 4 | 22 |
 | [RICK DANGEROUS 2](https://archive.org/details/secretservicemagazine-1994-11/page/n25/mode/2up) | 18 | 25 |
 | [RIDDLE OF MASTER LU, THE cz.1](https://archive.org/details/secretservicemagazine-1996-05/page/n42/mode/2up) | 35 | 42 |
 | [RIDDLE OF MASTER LU, THE cz.2](https://archive.org/details/secretservicemagazine-1996-03/page/n46/mode/2up) | 33 | 46 |
@@ -1577,7 +1577,7 @@
 | [RISE 2: RESURECTION cz.2](https://archive.org/details/secretservicemagazine-1996-09/page/n30/mode/2up) | 38 | 30 |
 | [RISE 2: RESURECTION cz.3](https://archive.org/details/secretservicemagazine-1996-11/page/n26/mode/2up) | 40 | 26 |
 | [RISE AND BLUE OF ANCIENT EMPIRES](https://archive.org/details/secretservicemagazine-1996-06/page/n54/mode/2up) | 36 | 54 |
-| [RISE OF THE DRAGON](https://archive.org/details/secretservicemagazine-1993-06/page/n22/mode/2up) | 6 | 22 |
+| [RISE OF THE DRAGON](https://archive.org/details/secretservicemagazine-1993-06/page/n21/mode/2up) | 6 | 22 |
 | [RISE OF THE ROBOTS](https://archive.org/details/secretservicemagazine-1995-01/page/n44/mode/2up) | 20 | 44 |
 | [RISE OF THE TRIAD](https://archive.org/details/secretservicemagazine-1995-03/page/n30/mode/2up) | 22 | 30 |
 | [RISK](https://archive.org/details/secretservicemagazine-1994-03/page/n34/mode/2up) | 11 | 34 |
@@ -1595,8 +1595,8 @@
 | [ROCK STAR ATE MY HAMPSTER](https://archive.org/details/secretservicemagazine-1994-10/page/n19/mode/2up) | 17 | 19 |
 | [ROCK STAR](https://archive.org/details/secretservicemagazine-1997-01/page/n77/mode/2up) | 42 | 77 |
 | [ROCKET JOCKEY](https://archive.org/details/secretservicemagazine-1997-05/page/n26/mode/2up) | 46 | 26 |
-| [ROCKETEER, THE](https://archive.org/details/secretservicemagazine-1994-01/page/n52/mode/2up) | 9 | 36 |
-| [ROME AD 92](https://archive.org/details/secretservicemagazine-1993-04/page/n31/mode/2up) | 4 | 31 |
+| [ROCKETEER, THE](https://archive.org/details/secretservicemagazine-1994-01/page/n51/mode/2up) | 9 | 36 |
+| [ROME AD 92](https://archive.org/details/secretservicemagazine-1993-04/page/n30/mode/2up) | 4 | 31 |
 | [ROOSTER](https://archive.org/details/secretservicemagazine-1994-09/page/n22/mode/2up) | 16 | 22 |
 | [ROOSTER](https://archive.org/details/secretservicemagazine-1996-04/page/n27/mode/2up) | 34 | 27 |
 | [ROUND THE BEND](https://archive.org/details/secretservicemagazine-1994-10/page/n10/mode/2up) | 17 | 10 |
@@ -1628,7 +1628,7 @@
 | [SCREAMER RALLY](https://archive.org/details/secretservicemagazine-1997-12/page/n53/mode/2up) | 52 | 53 |
 | [SCREECH!](https://archive.org/details/secretservicemagazine-1996-09/page/n18/mode/2up) | 38 | 18 |
 | [SEA LEGENDS](https://archive.org/details/secretservicemagazine-1996-06/page/n52/mode/2up) | 36 | 52 |
-| [SEAL TEAM](https://archive.org/details/secretservicemagazine-1994-01/page/n38/mode/2up) | 9 | 22 |
+| [SEAL TEAM](https://archive.org/details/secretservicemagazine-1994-01/page/n37/mode/2up) | 9 | 22 |
 | [SECOND FRONT](https://archive.org/details/secretservicemagazine-1993-05/page/n28/mode/2up) | 5 | 28 |
 | [SECRET DU TEMPLIER - KNIGHT'S CHASE - TIME GATE](https://archive.org/details/secretservicemagazine-1996-04/page/n38/mode/2up) | 34 | 38 |
 | [SECRET OF MONKEY ISLAND, THE](https://archive.org/details/secretservicemagazine-1995-01/page/n42/mode/2up) | 20 | 42 |
@@ -1664,7 +1664,7 @@
 | [SHADOWS OVER RIVA - REALMS OF ARCANIA 3](https://archive.org/details/secretservicemagazine-1997-06/page/n49/mode/2up) | 47 | 49 |
 | [SHADOWS OVER RIVA - REALMS OF ARCANIA 3](https://archive.org/details/secretservicemagazine-1997-07/page/n51/mode/2up) | 48 | 51 |
 | [SHANNARA](https://archive.org/details/secretservicemagazine-1996-03/page/n34/mode/2up) | 33 | 34 |
-| [SHAPE UP OR SLIP OUT - LEISURE SUIT LARRY 6](https://archive.org/details/secretservicemagazine-1994-01/page/n18/mode/2up) | 9 | 18 |
+| [SHAPE UP OR SLIP OUT - LEISURE SUIT LARRY 6](https://archive.org/details/secretservicemagazine-1994-01/page/n17/mode/2up) | 9 | 18 |
 | [SHAQ FU](https://archive.org/details/secretservicemagazine-1995-03/page/n24/mode/2up) | 22 | 24 |
 | [SHATTERED STEEL](https://archive.org/details/secretservicemagazine-1997-03/page/n34/mode/2up) | 44 | 34 |
 | [SHELLSHOCK](https://archive.org/details/secretservicemagazine-1996-09/page/n54/mode/2up) | 38 | 54 |
@@ -1785,7 +1785,7 @@
 | [STEEL PANTHERS - CAMPAIGN DISK](https://archive.org/details/secretservicemagazine-1997-03/page/n60/mode/2up) | 44 | 60 |
 | [STEEL PANTHERS 2](https://archive.org/details/secretservicemagazine-1997-04/page/n58/mode/2up) | 45 | 58 |
 | [STEEL THUNDER](https://archive.org/details/secretservicemagazine-1995-04/page/n10/mode/2up) | 23 | 10 |
-| [STONE AGE](https://archive.org/details/secretservicemagazine-1993-06/page/n10/mode/2up) | 6 | 10 |
+| [STONE AGE](https://archive.org/details/secretservicemagazine-1993-06/page/n9/mode/2up) | 6 | 10 |
 | [STONE PROPHET - RAVENLOFT 2](https://archive.org/details/secretservicemagazine-1995-10/page/n38/mode/2up) | 28 | 38 |
 | [STONEKEEP cz.1](https://archive.org/details/secretservicemagazine-1996-01/page/n54/mode/2up) | 31 | 54 |
 | [STONEKEEP cz.2](https://archive.org/details/secretservicemagazine-1996-02/page/n46/mode/2up) | 32 | 46 |
@@ -1794,11 +1794,11 @@
 | [STRAHD'S POSSESSION - RAVENLOFT](https://archive.org/details/secretservicemagazine-1995-04/page/n52/mode/2up) | 23 | 52 |
 | [STRATEGIC FLIGHT SIMULATION - G-FORCE (MIG-29M SUPERFULCRUM)](https://archive.org/details/secretservicemagazine-1994-11/page/n28/mode/2up) | 18 | 28 |
 | [STREET FIGHTER ALPHA](https://archive.org/details/secretservicemagazine-1996-09/page/n26/mode/2up) | 38 | 26 |
-| [STREET FIGHTER 2 v.1.9](https://archive.org/details/secretservicemagazine-1993-06/page/n21/mode/2up) | 6 | 21 |
+| [STREET FIGHTER 2 v.1.9](https://archive.org/details/secretservicemagazine-1993-06/page/n20/mode/2up) | 6 | 21 |
 | [STREET FIGHTER 2 v.2.0](https://archive.org/details/secretservicemagazine-1993-07/page/n10/mode/2up) | 7 | 10 |
 | [STREET FIGHTER 3](https://archive.org/details/secretservicemagazine-1997-06/page/n25/mode/2up) | 47 | 25 |
 | [STREET HASLE](https://archive.org/details/secretservicemagazine-1995-04/page/n27/mode/2up) | 23 | 27 |
-| [STREET ROD 2](https://archive.org/details/secretservicemagazine-1993-04/page/n28/mode/2up) | 4 | 28 |
+| [STREET ROD 2](https://archive.org/details/secretservicemagazine-1993-04/page/n27/mode/2up) | 4 | 28 |
 | [STREET SOCCER](https://archive.org/details/secretservicemagazine-1994-07/page/n8/mode/2up) | 15 | 9 |
 | [STRIFE](https://archive.org/details/secretservicemagazine-1996-11/page/n36/mode/2up) | 40 | 36 |
 | [STRIKE BASE](https://archive.org/details/secretservicemagazine-1996-12/page/n28/mode/2up) | 41 | 28 |
@@ -1810,10 +1810,10 @@
 | [STRIKER'96](https://archive.org/details/secretservicemagazine-1996-11/page/n24/mode/2up) | 40 | 24 |
 | [STRIP POKER PRO](https://archive.org/details/secretservicemagazine-1995-11/page/n39/mode/2up) | 29 | 39 |
 | [STRIP POKER PROFESSIONAL](https://archive.org/details/secretservicemagazine-1995-12/page/n32/mode/2up) | 30 | 32 |
-| [STRONGHOLD](https://archive.org/details/secretservicemagazine-1994-01/page/n49/mode/2up) | 9 | 33 |
+| [STRONGHOLD](https://archive.org/details/secretservicemagazine-1994-01/page/n48/mode/2up) | 9 | 33 |
 | [STUNT CAR RACER](https://archive.org/details/secretservicemagazine-1994-05/page/n8/mode/2up) | 13 | 8 |
 | [STUNT EXPERTS](https://archive.org/details/secretservicemagazine-1994-11/page/n8/mode/2up) | 18 | 8 |
-| [STUNTS](https://archive.org/details/secretservicemagazine-1993-04/page/n29/mode/2up) | 4 | 29 |
+| [STUNTS](https://archive.org/details/secretservicemagazine-1993-04/page/n28/mode/2up) | 4 | 29 |
 | [SU-25](https://archive.org/details/secretservicemagazine-1996-02/page/n36/mode/2up) | 32 | 36 |
 | [SU-27 FLANKER](https://archive.org/details/secretservicemagazine-1996-04/page/n32/mode/2up) | 34 | 32 |
 | [SUB BATTLE SIMULATOR](https://archive.org/details/secretservicemagazine-1993-03/page/n8/mode/2up) | 3 | 8 |
@@ -1849,7 +1849,7 @@
 | [SWIV 3D](https://archive.org/details/secretservicemagazine-1997-03/page/n33/mode/2up) | 44 | 33 |
 | [SWORD OF HONOR](https://archive.org/details/secretservicemagazine-1994-07/page/n24/mode/2up) | 15 | 25 |
 | [SWORDS OF XEER - MIGHT & MAGIC 6](https://archive.org/details/secretservicemagazine-1996-04/page/n50/mode/2up) | 34 | 50 |
-| [SYN BOGA WATRU](https://archive.org/details/secretservicemagazine-1993-06/page/n8/mode/2up) | 6 | 8 |
+| [SYN BOGA WATRU](https://archive.org/details/secretservicemagazine-1993-06/page/n7/mode/2up) | 6 | 8 |
 | [SYNDICATE](https://archive.org/details/secretservicemagazine-1993-05/page/n26/mode/2up) | 5 | 26 |
 | [SYNDICATE PL](https://archive.org/details/secretservicemagazine-1994-04/page/n32/mode/2up) | 12 | 32 |
 | [SYNDICATE WARS](https://archive.org/details/secretservicemagazine-1996-11/page/n65/mode/2up) | 40 | 65 |
@@ -1909,7 +1909,7 @@
 | [THIRD REICH, THE](https://archive.org/details/secretservicemagazine-1997-01/page/n59/mode/2up) | 42 | 59 |
 | [THIS MEANS WAR](https://archive.org/details/secretservicemagazine-1996-04/page/n60/mode/2up) | 34 | 60 |
 | [THOMAS PINBALL](https://archive.org/details/secretservicemagazine-1996-03/page/n51/mode/2up) | 33 | 51 |
-| [THRONE OF CHAOS, THE - LANDS OF LORE cz.1](https://archive.org/details/secretservicemagazine-1993-06/page/n32/mode/2up) | 6 | 32 |
+| [THRONE OF CHAOS, THE - LANDS OF LORE cz.1](https://archive.org/details/secretservicemagazine-1993-06/page/n31/mode/2up) | 6 | 32 |
 | [THRONE OF CHAOS, THE - LANDS OF LORE cz.2](https://archive.org/details/secretservicemagazine-1993-07/page/n32/mode/2up) | 7 | 32 |
 | [THRONE OF CHAOS, THE - LANDS OF LORE](https://archive.org/details/secretservicemagazine-1995-02/page/n44/mode/2up) | 21 | 44 |
 | [THROUGH THE EYES OF THE MONSTER - FRANKENSTEIN cz.1](https://archive.org/details/secretservicemagazine-1996-04/page/n49/mode/2up) | 34 | 49 |
@@ -1948,7 +1948,7 @@
 | [TONY LA RUSSA BASEBALL 3](https://archive.org/details/secretservicemagazine-1996-05/page/n30/mode/2up) | 35 | 30 |
 | [TOONSTRUCK cz.1](https://archive.org/details/secretservicemagazine-1997-02/page/n44/mode/2up) | 43 | 44 |
 | [TOONSTRUCK cz.2](https://archive.org/details/secretservicemagazine-1997-03/page/n46/mode/2up) | 44 | 46 |
-| [TOP CAT](https://archive.org/details/secretservicemagazine-1993-04/page/n10/mode/2up) | 4 | 10 |
+| [TOP CAT](https://archive.org/details/secretservicemagazine-1993-04/page/n9/mode/2up) | 4 | 10 |
 | [TOP GUN](https://archive.org/details/secretservicemagazine-1996-05/page/n32/mode/2up) | 35 | 32 |
 | [TOP OF THE LEAGUE](https://archive.org/details/secretservicemagazine-1996-07/page/n18/mode/2up) | 37 | 18 |
 | [TOP SECRET](https://archive.org/details/secretservicemagazine-1994-02/page/n5/mode/2up) | 10 | 5 |
@@ -2028,7 +2028,7 @@
 | [ULTIMA 8 - PAGAN](https://archive.org/details/secretservicemagazine-1994-09/page/n34/mode/2up) | 16 | 34 |
 | [ULTIMA ONLINE (WP)](https://archive.org/details/secretservicemagazine-1997-06/page/n13/mode/2up) | 47 | 13 |
 | [ULTIMATE BODY BLOWS](https://archive.org/details/secretservicemagazine-1995-03/page/n19/mode/2up) | 22 | 19 |
-| [ULTIMATE CHALLENGE, THE - LOTUS 3](https://archive.org/details/secretservicemagazine-1994-01/page/n12/mode/2up) | 9 | 12 |
+| [ULTIMATE CHALLENGE, THE - LOTUS 3](https://archive.org/details/secretservicemagazine-1994-01/page/n11/mode/2up) | 9 | 12 |
 | [ULTIMATE CHALLENGE, THE - LOTUS 3](https://archive.org/details/secretservicemagazine-1994-10/page/n28/mode/2up) | 17 | 28 |
 | [ULTIMATE FOOTBALL'95](https://archive.org/details/secretservicemagazine-1995-11/page/n75/mode/2up) | 29 | 75 |
 | [ULTIMATE MORTAL KOMBAT 3](https://archive.org/details/secretservicemagazine-1996-10/page/n26/mode/2up) | 39 | 26 |
@@ -2105,7 +2105,7 @@
 | [WAR IN RUSSIA](https://archive.org/details/secretservicemagazine-1993-07/page/n27/mode/2up) | 7 | 27 |
 | [WAR INC.](https://archive.org/details/secretservicemagazine-1997-11/page/n47/mode/2up) | 51 | 47 |
 | [WAR OF THE WORLDS (WP)](https://archive.org/details/secretservicemagazine-1997-12/page/n10/mode/2up) | 52 | 10 |
-| [WAR SHIPS](https://archive.org/details/secretservicemagazine-1994-01/page/n41/mode/2up) | 9 | 25 |
+| [WAR SHIPS](https://archive.org/details/secretservicemagazine-1994-01/page/n40/mode/2up) | 9 | 25 |
 | [WARCRAFT](https://archive.org/details/secretservicemagazine-1995-02/page/n64/mode/2up) | 21 | 64 |
 | [WARCRAFT ADVENTURES (WP)](https://archive.org/details/secretservicemagazine-1997-09/page/n14/mode/2up) | 49 | 14 |
 | [WARCRAFT 2](https://archive.org/details/secretservicemagazine-1996-02/page/n60/mode/2up) | 32 | 60 |
@@ -2115,7 +2115,7 @@
 | [WARGAME CONSTRUCTION SET 2 - TANKS!](https://archive.org/details/secretservicemagazine-1994-09/page/n40/mode/2up) | 16 | 40 |
 | [WARGAME CONSTRUCTION SET 2 - TANKS!](https://archive.org/details/secretservicemagazine-1996-04/page/n58/mode/2up) | 34 | 58 |
 | [WARHAMMER - SHADOW OF THE HORNED RAT](https://archive.org/details/secretservicemagazine-1996-03/page/n52/mode/2up) | 33 | 52 |
-| [WARLORDS 2](https://archive.org/details/secretservicemagazine-1993-06/page/n26/mode/2up) | 6 | 26 |
+| [WARLORDS 2](https://archive.org/details/secretservicemagazine-1993-06/page/n25/mode/2up) | 6 | 26 |
 | [WARLORDS 2](https://archive.org/details/secretservicemagazine-1996-04/page/n59/mode/2up) | 34 | 59 |
 | [WARLORDS 2 DELUXE](https://archive.org/details/secretservicemagazine-1996-06/page/n34/mode/2up) | 36 | 34 |
 | [WARLORDS 2 - SCENARIO BUILDER](https://archive.org/details/secretservicemagazine-1994-10/page/n60/mode/2up) | 17 | 60 |
@@ -2193,7 +2193,7 @@
 | [X-WING](https://archive.org/details/secretservicemagazine-1993-07/page/n34/mode/2up) | 7 | 34 |
 | [X-WING vs. TIE FIGHTER](https://archive.org/details/secretservicemagazine-1997-05/page/n40/mode/2up) | 46 | 40 |
 | [X-WING vs. TIE FIGHTER](https://archive.org/details/secretservicemagazine-1997-07/page/n44/mode/2up) | 48 | 44 |
-| [XENO BOTS](https://archive.org/details/secretservicemagazine-1993-06/page/n35/mode/2up) | 6 | 35 |
+| [XENO BOTS](https://archive.org/details/secretservicemagazine-1993-06/page/n34/mode/2up) | 6 | 35 |
 | [XENOPHAGE](https://archive.org/details/secretservicemagazine-1996-12/page/n20/mode/2up) | 41 | 20 |
 | [XKIT](https://archive.org/details/secretservicemagazine-1995-11/page/n37/mode/2up) | 29 | 37 |
 | [XP8](https://archive.org/details/secretservicemagazine-1996-09/page/n25/mode/2up) | 38 | 25 |
