@@ -31,7 +31,7 @@ offsets:
     #   - from_page: 21
     #     offset: 4
   4:
-    initial_offset: 0
+    initial_offset: -1
     # page_offsets:
     #   - from_page: 21
     #     offset: 4
@@ -41,7 +41,7 @@ offsets:
     #   - from_page: 21
     #     offset: 4
   6:
-    initial_offset: 0
+    initial_offset: -1
     # page_offsets:
     #   - from_page: 21
     #     offset: 4
@@ -56,7 +56,7 @@ offsets:
       - from_page: 19
         offset: 16
   9:
-    initial_offset: 0
+    initial_offset: -1
     page_offsets:
       - from_page: 19
         offset: 16
